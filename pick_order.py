@@ -1,14 +1,17 @@
+#!/usr/bin/env python
 ##M:tG pick order lookup
+##King Xia
 
 ##TODO:
 ####Add card compare
+####Populate KTK draft file, add FRF as well
 ####Add formatting to files to allow multiple formats
 ######OR allow multiple files to be accessed at once
 ####Add a "Did you mean?" section for edit distance matches
 
 from msvcrt import getch
-from msvcrt import kbhit
 import os
+from lib.card import Card
 
 filename_dict = {'ORI':"data/origins.txt",
                  'KTK':"data/khans.txt"}
@@ -79,28 +82,6 @@ def prune_names(names, string):
         new_names.append(name)
     return new_names
 
-class Card():
-    def __init__(self, name, order):
-        self.name = name
-        self.order = order
-
-    def __lt__(self, other):
-        return self.order < other.order
-
-    def __eq__(self, other):
-        return self.name.lower() == other.name.lower()
-
-    def __hash__(self):
-        h = 0
-        c = 1
-        for i in self.name.lower():
-            h += ord(i) ** c
-            h %= 104729
-        return h
-
-    def __str__(self):
-        return "#%d  - %s" % (self.order, self.name.title())
-
 def update(strings, names, order, maxlen):
     os.system('cls')
     for string in strings:
@@ -130,6 +111,7 @@ def main():
         new_key = getch()
 
         if ord(new_key) == exit_command:
+            os.system('cls')
             exit()
 
         if new_key == '\b' and current_lookup[-1] != "":
