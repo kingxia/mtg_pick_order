@@ -1,0 +1,252 @@
+Abbot of Keral Keep	3.5
+Acolyte of the Inferno	3.0
+Act of Treason	1.5
+Aerial Volley	0.5
+Akroan Jailer	1.0
+Akroan Sergeant	3.0
+Alchemist's Vial	1.5
+Alhammarret's Archive	0.0
+Alhammarret, High Arbiter	4.0
+Ampryn Tactician	2.5
+Anchor to the Aether	3.0
+Angel's Tomb	2.0
+Animist's Awakening	0.0
+Anointer of Champions	3.0
+Archangel of Tithes	4.5
+Artificer's Epiphany	1.5
+Aspiring Aeronaut	3.0
+Auramancer	2.0
+Avaricious Dragon	3.0
+Aven Battle Priest	1.5
+Battlefield Forge	3.0
+Bellows Lizard	0.5
+Blazing Hellhound	3.0
+Blessed Spirits	3.0
+Blightcaster	2.0
+Blood-Cursed Knight	3.0
+Boggart Brute	2.5
+Bonded Construct	1.0
+Bone to Ash	1.5
+Bounding Krasis	3.5
+Brawler's Plate	1.0
+Calculated Dismissal	2.0
+Call of the Full Moon	1.0
+Catacomb Slug	1.0
+Caustic Caterpillar	0.5
+Caves of Koilos	3.0
+Celestial Flare	3.0
+Chandra's Fury	1.5
+Chandra's Ignition	3.5
+Chandra, Fire of Kaladesh	3.5
+Charging Griffin	2.5
+Chief of the Foundry	1.5
+Citadel Castellan	3.5
+Clash of Wills	3.0
+Claustrophobia	3.5
+Cleric of the Forward Order	2.5
+Cobblebrute	1.5
+Conclave Naturalists	3.0
+Consecrated by Blood	2.0
+Consul's Lieutenant	3.5
+Cruel Revival	3.5
+Dark Dabbling	2.0
+Dark Petition	1.5
+Day's Undoing	0.0
+Deadbridge Shaman	3.0
+Deep-Sea Terror	2.5
+Demolish	0.0
+Demonic Pact	1.0
+Despoiler of Souls	2.5
+Disciple of the Ring	4.0
+Disperse	2.5
+Displacement Wave	1.0
+Dragon Fodder	2.5
+Dreadwaters	1.0
+Dwynen's Elite	3.0
+Dwynen, Gilt-Leaf Daen	3.5
+Elemental Bond	1.5
+Elvish Visionary	3.0
+Embermaw Hellion	3.5
+Enlightened Ascetic	0.5
+Enshrouding Mist	2.0
+Enthralling Victor	1.5
+Erebos's Titan	3.0
+Evolutionary Leap	0.0
+Evolving Wilds	3.0
+Exquisite Firecraft	3.5
+Eyeblight Assassin	3.0
+Eyeblight Massacre	3.5
+Faerie Miscreant	1.5
+Fetid Imp	3.0
+Fiery Conclusion	1.5
+Fiery Impulse	3.5
+Firefiend Elemental	3.0
+Flameshadow Conjuring	2.0
+Fleshbag Marauder	2.0
+Foundry of the Consuls	3.0
+Gaea's Revenge	2.5
+Gather the Pack	1.0
+Ghirapur Aether Grid	1.0
+Ghirapur Gearcrafter	3.5
+Gideon's Phalanx	3.5
+Gilt-Leaf Winnower	4.0
+Gnarlroot Trapper	2.0
+Goblin Glory Chaser	1.0
+Goblin Piledriver	0.5
+Gold-Forged Sentinel	2.0
+Grasp of the Hieromancer	2.0
+Graveblade Marauder	3.5
+Guardian Automaton	2.0
+Guardians of Meletis	1.0
+Hallowed Moonlight	1.0
+Hangarback Walker	4.0
+Harbinger of the Tides	3.5
+Healing Hands	2.0
+Heavy Infantry	1.5
+Helm of the Gods	0.0
+Herald of the Pantheon	2.5
+Hitchclaw Recluse	3.0
+Hixus, Prison Warden	4.0
+Honored Hierarch	1.0
+Hydrolash	3.0
+Infectious Bloodlust	1.0
+Infernal Scarring	2.5
+Infinite Obliteration	0.0
+Iroas's Champion	3.5
+Jace's Sanctum	1.5
+Jace, Vryn's Prodigy	3.0
+Jayemdae Tome	0.0
+Jhessian Thief	3.5
+Joraga Invocation	3.5
+Knight of the Pilgrim's Road	3.0
+Knight of the White Orchid	3.0
+Knightly Valor	3.5
+Kothophed, Soul Hoarder	4.0
+Kytheon's Irregulars	4.5
+Kytheon's Tactics	1.5
+Kytheon, Hero of Akros	4.0
+Languish	4.0
+Leaf Gilder	3.5
+Lightning Javelin	3.0
+Liliana, Heretical Healer	3.0
+Llanowar Empath	3.0
+Llanowar Wastes	3.0
+Macabre Waltz	2.5
+Mage-Ring Bully	1.0
+Mage-Ring Network	1.0
+Mage-Ring Responder	2.5
+Magmatic Insight	1.5
+Malakir Cullblade	3.0
+Managorger Hydra	4.5
+Mantle of Webs	0.5
+Maritime Guard	1.0
+Meteorite	2.0
+Might of the Masses	2.0
+Mighty Leap	1.5
+Mizzium Meddler	3.0
+Molten Vortex	3.0
+Murder Investigation	1.0
+Nantuko Husk	3.0
+Necromantic Summons	2.5
+Negate	2.0
+Nightsnare	1.0
+Nissa's Pilgrimage	2.0
+Nissa's Revelation	3.0
+Nissa, Vastwood Seer	4.0
+Nivix Barrier	1.5
+Orbs of Warding	1.5
+Orchard Spirit	2.0
+Outland Colossus	4.0
+Patron of the Valiant	3.5
+Pharika's Disciple	3.0
+Pia and Kiran Nalaar	4.5
+Possessed Skaab	3.5
+Prickleboar	2.0
+Priest of the Blood Rite	3.5
+Prism Ring	0.0
+Psychic Rebuttal	0.5
+Pyromancer's Goggles	1.0
+Rabid Bloodsucker	2.0
+Ramroller	1.0
+Ravaging Blaze	3.5
+Read the Bones	3.5
+Reave Soul	3.0
+Reclaim	0.0
+Reclusive Artificer	1.5
+Relic Seeker	3.0
+Returned Centaur	1.5
+Revenant	2.5
+Rhox Maulers	3.0
+Ringwarden Owl	3.0
+Rogue's Passage	3.0
+Runed Servitor	2.0
+Scab-Clan Berserker	3.0
+Scrapskin Drake	2.0
+Screeching Skaab	1.5
+Seismic Elemental	3.5
+Send to Sleep	1.0
+Sentinel of the Eternal Watch	4.0
+Separatist Voidmage	3.0
+Shadows of the Past	3.0
+Shaman of the Pack	2.5
+Shambling Ghoul	3.0
+Shivan Reef	3.0
+Sigil of Valor	1.0
+Sigil of the Empty Throne	1.5
+Sigiled Starfish	3.0
+Skaab Goliath	2.0
+Skyraker Giant	3.0
+Skysnare Spider	3.5
+Smash to Smithereens	0.5
+Somberwald Alpha	3.0
+Soulblade Djinn	4.0
+Sphinx's Tutelage	1.5
+Stalwart Aven	3.0
+Starfield of Nyx	0.0
+Stratus Walk	3.0
+Subterranean Scout	2.0
+Suppression Bonds	3.0
+Swift Reckoning	3.5
+Sword of the Animist	2.5
+Sylvan Messenger	1.5
+Tainted Remedy	0.0
+Talent of the Telepath	0.5
+The Great Aurora	0.0
+Thopter Engineer	3.5
+Thopter Spy Network	1.0
+Thornbow Archer	1.0
+Throwing Knife	2.5
+Thunderclap Wyvern	3.5
+Timberpack Wolf	3.0
+Titan's Strength	1.5
+Titanic Growth	2.0
+Topan Freeblade	3.0
+Tormented Thoughts	0.5
+Totem-Guide Hartebeest	2.0
+Touch of Moonglove	1.0
+Tower Geist	3.5
+Tragic Arrogance	4.0
+Turn to Frog	2.0
+Undead Servant	2.5
+Undercity Troll	3.5
+Unholy Hunger	3.5
+Valeron Wardens	2.5
+Valor in Akros	1.5
+Vastwood Gorger	1.5
+Veteran's Sidearm	0.0
+Vine Snare	0.5
+Volcanic Rambler	1.0
+Vryn Wingmare	3.0
+War Horn	1.5
+War Oracle	3.5
+Watercourser	2.5
+Weight of the Underworld	2.0
+Whirler Rogue	4.0
+Wild Instincts	3.0
+Willbreaker	1.5
+Woodland Bellower	4.0
+Yavimaya Coast	3.0
+Yeva's Forcemage	1.5
+Yoked Ox	1.0
+Zendikar Incarnate	3.5
+Zendikar's Roil	2.0

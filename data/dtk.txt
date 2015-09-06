@@ -1,0 +1,249 @@
+Arashin Sovereign	3.0
+Atarka'S Command	3.0
+Boltwing Marauder	4.0
+Cunning Breezedancer	3.5
+Dragonlord Atarka	5.0
+Dragonlord Dromoka	4.0
+Dragonlord Kolaghan	4.5
+Dragonlord Ojutai	4.5
+Dragonlord Silumgar	4.5
+Dromoka'S Command	3.5
+Enduring Scalelord	2.5
+Harbinger Of The Hunt	4.0
+Kolaghan'S Command	3.5
+Narset Transcendent	2.5
+Necromaster Dragon	4.0
+Ojutai'S Command	3.0
+Pristine Skywise	3.5
+Ruthless Deathfang	3.0
+Sarkhan Unbroken	4.0
+Savage Ventmaw	3.0
+Silumgar'S Command	4.0
+Skywise Teachings	2.0
+Swift Warkite	3.5
+Scion Of Ugin	2.5
+Ancestral Statue	0.5
+Atarka Monument	1.5
+Dromoka Monument	1.5
+Kolaghan Monument	1.5
+Ojutai Monument	1.5
+Silumgar Monument	1.5
+Custodian Of The Trove	0.5
+Dragonloft Idol	1.0
+Gate Smasher	0.0
+Keeper Of The Lens	0.0
+Spidersilk Net	0.5
+Stormrider Rig	1.0
+Tapestry Of The Ages	1.5
+Vial Of Dragonfire	1.5
+Evolving Wilds	3.0
+Haven Of The Spirit Dragon	1.0
+Acid-Spewer Dragon	2.5
+Ambuscade Shaman	2.0
+Blood-Chin Fanatic	3.0
+Blood-Chin Rager	3.0
+Butcher’S Glee	2.5
+Coat With Venom	3.0
+Corpseweft	3.5
+Damnable Pact	3.5
+Deadly Wanderings	2.0
+Death Wind	3.0
+Deathbringer Regent	4.0
+Defeat	3.0
+Duress	0.5
+Dutiful Attendant	2.5
+Flatten	3.0
+Foul Renewal	3.5
+Foul-Tongue Invocation	0.0
+Foul-Tongue Shriek	1.5
+Gravepurge	3.0
+Hand Of Silumgar	3.0
+Hedonist’S Trove	2.0
+Kolaghan Skirmisher	3.0
+Marang River Skeleton	3.0
+Marsh Hulk	1.5
+Mind Rot	3.0
+Minister Of Pain	4.0
+Pitiless Horde	1.0
+Qarsi Sadist	3.5
+Rakshasa Gravecaller	2.5
+Reckless Imp	3.5
+Risen Executioner	0.5
+Self-Inflicted Wound	2.0
+Shambling Goblin	1.5
+Sibsig Icebreakers	4.0
+Sidisi, Undead Vizier	3.0
+Silumgar Assassin	3.5
+Silumgar Butcher	3.5
+Ukud Cobra	0.5
+Ultimate Price	3.0
+Virulent Plague	1.5
+Vulturous Aven	3.0
+Wandering Tombshell	1.5
+Ancient Carp	1.5
+Anticipate	3.0
+Belltoll Dragon	3.0
+Blessed Reincarnation	1.5
+Clone Legion	1.0
+Contradict	1.5
+Dance Of The Skywise	1.5
+Dirgur Nemesis	2.0
+Dragonlord'S Prerogative	4.0
+Elusive Spellfist	2.0
+Encase In Ice	0.5
+Glint	2.0
+Gudul Lurker	3.0
+Gurmag Drowner	2.5
+Icefall Regent	4.5
+Illusory Gains	3.5
+Learn From The Past	1.0
+Living Lore	1.5
+Mirror Mockery	2.5
+Monastery Loremaster	3.0
+Mystic Meditation	2.5
+Negate	2.0
+Ojutai Interceptor	3.5
+Ojutai'S Breath	1.5
+Ojutai'S Summons	3.5
+Palace Familiar	3.0
+Profaner Of The Dead	3.5
+Qarsi Deceiver	1.5
+Reduce In Stature	3.0
+Shorecrasher Elemental	4.0
+Sidisi'S Faithful	1.0
+Sight Beyond Sight	2.5
+Silumgar Sorcerer	3.5
+Silumgar Spell-Eater	3.0
+Silumgar'S Scorn	1.5
+Stratus Dancer	3.5
+Taigam'S Strike	2.5
+Updraft Elemental	2.5
+Void Squall	2.5
+Youthful Scholar	3.5
+Zephyr Scribe	3.5
+Aerie Bowmasters	3.5
+Ainok Artillerist	1.5
+Ainok Survivalist	3.0
+Assault Formation	2.0
+Atarka Beastbreaker	3.0
+Avatar Of The Resolute	3.5
+Circle Of Elders	2.0
+Collected Company	1.0
+Colossodon Yearling	2.5
+Conifer Strider	1.0
+Deathmist Raptor	4.5
+Den Protector	4.0
+Display Of Dominance	0.5
+Dragon-Scarred Bear	3.0
+Dromoka'S Gift	2.5
+Epic Confrontation	3.5
+Explosive Vegetation	1.5
+Foe-Razer Regent	3.5
+Glade Watcher	2.0
+Guardian Shield-Bearer	2.5
+Herdchaser Dragon	2.5
+Inspiring Call	0.5
+Lurking Arynx	2.0
+Naturalize	0.5
+Obscuring ÆTher	1.5
+Pinion Feast	0.5
+Press The Advantage	1.5
+Revealing Wind	0.5
+Salt Road Ambushers	3.0
+Salt Road Quartermasters	3.5
+Sandsteppe Scavenger	1.5
+Scaleguard Sentinels	3.0
+Segmented Krotiq	3.0
+Servant Of The Scale	0.0
+Shaman Of Forgotten Ways	4.0
+Shape The Sands	1.0
+Sheltered Aerie	1.0
+Sight Of The Scalelords	0.0
+Stampeding Elk Herd	3.0
+Sunbringer'S Touch	1.5
+Surrak, The Hunt Caller	4.0
+Tread Upon	2.0
+Atarka Efreet	3.0
+Atarka Pummeler	3.0
+Berserkers' Onslaught	2.5
+Commune With Lava	1.5
+Crater Elemental	3.5
+Descent Of The Dragons	2.5
+Draconic Roar	3.5
+Dragon Fodder	2.5
+Dragon Tempest	1.0
+Dragon Whisperer	3.5
+Dragonlord'S Servant	1.5
+Hardened Berserker	3.0
+Impact Tremors	1.0
+Ire Shaman	3.5
+Kindled Fury	1.5
+Kolaghan Aspirant	2.0
+Kolaghan Forerunners	2.5
+Kolaghan Stormsinger	2.5
+Lightning Berserker	1.5
+Lose Calm	1.5
+Magmatic Chasm	1.5
+Qal Sisma Behemoth	3.0
+Rending Volley	0.5
+Roast	3.5
+Sabertooth Outrider	2.0
+Sarkhan'S Rage	3.0
+Sarkhan'S Triumph	1.0
+Screamreach Brawler	1.5
+Seismic Rupture	3.0
+Sprinting Warbrute	3.0
+Stormcrag Elemental	3.0
+Stormwing Dragon	2.5
+Summit Prowler	3.0
+Tail Slash	3.0
+Thunderbreak Regent	4.0
+Tormenting Voice	3.0
+Twin Bolt	3.0
+Vandalize	0.5
+Volcanic Rush	1.5
+Volcanic Vision	3.5
+Warbringer	2.5
+Zurgo Bellstriker	3.0
+Anafenza, Kin-Tree Spirit	4.0
+Arashin Foremost	4.0
+Artful Maneuver	2.0
+Aven Sunstriker	0.5
+Aven Tactician	2.0
+Battle Mastery	2.0
+Center Soul	2.5
+Champion Of Arashin	0.5
+Dragon Hunter	2.0
+Dragon'S Eye Sentry	1.5
+Dromoka Captain	2.5
+Dromoka Dunecaster	1.5
+Dromoka Warrior	2.5
+Echoes Of The Kin Tree	0.5
+Enduring Victory	2.5
+Fate Forgotten	2.0
+Glaring Aegis	1.5
+Gleam Of Authority	2.0
+Graceblade Artisan	2.0
+Great Teacher'S Decree	4.0
+Herald Of Dromoka	1.5
+Hidden Dragonslayer	3.0
+Lightwalker	2.5
+Misthoof Kirin	4.5
+Myth Realized	1.5
+Ojutai Exemplars	3.5
+Orator Of Ojutai	1.5
+Pacifism	0.5
+Profound Journey	1.5
+Radiant Purge	3.0
+Resupply	3.0
+Sandcrafter Mage	3.0
+Sandstorm Charger	3.0
+Scale Blessing	1.5
+Secure the Wastes	4.0
+Shieldhide Dragon	3.0
+Silkwrap	3.0
+Strongarm Monk	2.5
+Student of Ojutai	2.0
+Sunscorch Regent	4.0
+Surge of Righteousness	0.5
+Territorial Roc	1.5

@@ -1,3 +1,5 @@
+from math import floor
+
 class Card():
     def __init__(self, name, order):
         self.name = name
@@ -10,7 +12,7 @@ class Card():
         return self.name.lower() == other.name.lower()
 
     def __hash__(self):
-        h = 0
+        h = int(floor(self.order * 10))
         c = 1
         for i in self.name.lower():
             h += ord(i) ** c
@@ -18,4 +20,8 @@ class Card():
         return h
 
     def __str__(self):
-        return "#%d  - %s" % (self.order, self.name.title())
+        ones = int(floor(self.order))
+        decimals = int(floor(self.order * 10)) - ones * 10
+        
+        
+        return "%d.%d\t%s" % (ones, decimals, self.name.title())

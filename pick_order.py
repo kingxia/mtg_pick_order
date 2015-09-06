@@ -13,8 +13,9 @@ from msvcrt import getch
 import os
 from lib.card import Card
 
-filename_dict = {'ORI':"data/origins.txt",
-                 'KTK':"data/khans.txt"}
+filename_dict = {'ORI':"data/ori.txt",
+                 'KTK':"data/ktk.txt",
+                 'DTK':"data/dtk.txt"}
 exit_command = 3 #ctrl-c
 clear_command = 4 #ctrl-d
 return_command = 13 #enter
@@ -25,8 +26,8 @@ edit_distance_ratio = edit_distance_ratio_s if soft_match else edit_distance_rat
 window_height = 23
 
 def get_filename():
-    print "[ORI]\t3x Origins"
-    print "[KTK]\tFate Khans Khans"
+    for key in filename_dict:
+        print "[%s]" % key
     choice = raw_input("Draft type: ").upper()
     while choice not in filename_dict:
         choice = raw_input("Draft type: ").upper()
@@ -38,12 +39,15 @@ def load_pick_order(filename):
     file_data.close()
 
     pick_dict = {}
-    counter = 0
+    card_names = []
+    #counter = 0
     for line in file_lines:
-        counter += 1
-        pick_dict[line] = counter
+        line_split = line.split("\t")
+        #counter += 1
+        card_names.append(line_split[0])
+        pick_dict[line_split[0]] = float(line_split[1])
 
-    return file_lines, pick_dict
+    return card_names, pick_dict
 
 def levenshtein_distance(string, target):
     if string == target:
@@ -93,7 +97,7 @@ def update(strings, names, order, maxlen):
             continue
         for name in nameset:
             largeset.add(Card(name, order[name]))
-    for name in sorted(largeset):
+    for name in sorted(largeset)[::-1]:
         print name
 
 def main():
