@@ -9,5 +9,5 @@ Backspace - Undo previous keystroke, or on empty line, clears the line
 Ctrl + D - Clear line  
 Ctrl + C - Exit  
 
-Thanks to Frank Karsten for the initial seed data for Magic: Origins drafts. You can find his analysis here: http://www.channelfireball.com/articles/a-pick-order-list-for-magic-origins/
+Thanks to Frank Karsten for the initial seed data for Magic: Origins drafts. You can find his analysis here: http://www.channelfireball.com/articles/a-pick-order-list-for-magic-origins/  
 Thanks to LSV for the updated seed data for Magic: Origins drafts and the DTK set. You can find his articles here: http://www.channelfireball.com/author/luis-scott-vargas/
