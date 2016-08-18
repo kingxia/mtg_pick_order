@@ -15,7 +15,11 @@ from lib.card import Card
 
 filename_dict = {'ORI':"data/ori.txt",
                  'KTK':"data/ktk.txt",
-                 'DTK':"data/dtk.txt"}
+                 'DTK':"data/dtk.txt",
+		 'ZEN':"data/zenzenzen.txt"}
+tcg_sets = ['ZEN']
+lsv_set_index = 1
+tcg_set_index = 3
 exit_command = 3 #ctrl-c
 clear_command = 4 #ctrl-d
 return_command = 13 #enter
@@ -33,19 +37,24 @@ def get_filename():
         choice = raw_input("Draft type: ").upper()
     return filename_dict[choice]
 
-def load_pick_order(filename):
+def is_tcg_set(filename):
+    for key in filename_dict:
+        if filename_dict[key] == filename:
+	    return key in tcg_sets
+    return False
+
+def load_pick_order(filename, is_tcg=False):
     file_data = open(filename, 'r')
     file_lines = [line.strip().lower() for line in file_data.readlines()]
     file_data.close()
 
     pick_dict = {}
     card_names = []
-    #counter = 0
+    pick_index = tcg_set_index if is_tcg else lsv_set_index
     for line in file_lines:
         line_split = line.split("\t")
-        #counter += 1
         card_names.append(line_split[0])
-        pick_dict[line_split[0]] = float(line_split[1])
+        pick_dict[line_split[0]] = float(line_split[pick_index])
 
     return card_names, pick_dict
 
@@ -86,7 +95,7 @@ def prune_names(names, string):
         new_names.append(name)
     return new_names
 
-def update(strings, names, order, maxlen):
+def update(strings, names, order, maxlen, tcg_order=False):
     os.system('cls')
     for string in strings:
         print "> %s" % string
@@ -97,20 +106,23 @@ def update(strings, names, order, maxlen):
             continue
         for name in nameset:
             largeset.add(Card(name, order[name]))
-    for name in sorted(largeset)[::-1]:
+    cardset = sorted(largeset)
+    cardset = cardset if tcg_order else cardset[::-1]
+    for name in cardset:
         print name
 
 def main():
     print "Welcome to the Pick Order Lookup"
     print "Press Ctrl-C at any time to exit."
     filename = get_filename()
-    names, order = load_pick_order(filename)
+    is_tcg = is_tcg_set(filename)
+    names, order = load_pick_order(filename, is_tcg)
     current_lookup = [""]
     current_names = [[name for name in names]]
     #os.system('setterm -cursor off')
 
     while True:
-        update(current_lookup, current_names, order, len(names))
+        update(current_lookup, current_names, order, len(names), is_tcg)
         
         new_key = getch()
 
