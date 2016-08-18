@@ -1,0 +1,193 @@
+Rampaging Baloths	4GG	 Zendikar	1.43	M	$4.00	$1.37	$0.80
+Turntimber Ranger	3GG	 Zendikar	1.5	R	$2.75	$0.55	$0.25
+Scute Mob	G	 Zendikar	1.65	R	$3.17	$1.12	$0.49
+Lotus Cobra	1G	 Zendikar	1.66	M	$19.99	$14.39	$10.00
+Terra Stomper	3GGG	 Zendikar	1.72	R	$4.90	$0.98	$0.41
+Oracle of Mul Daya	3G	 Zendikar	2.18	R	$25.23	$20.19	$15.00
+Beastmaster Ascension	2G	 Zendikar	2.23	R	$4.95	$1.50	$0.60
+Gigantiform	3GG	 Zendikar	2.29	R	$1.50	$0.30	$0.13
+Summoning Trap	4GG	 Zendikar	2.56	R	$4.11	$1.57	$0.70
+Baloth Woodcrasher	4GG	 Zendikar	4	U	$0.85	$0.17	$0.06
+Oran-Rief Survivalist	1G	 Zendikar	5.68	C	$0.95	$0.19	$0.09
+River Boa	1G	 Zendikar	5.88	U	$0.85	$0.17	$0.06
+Predatory Urge	3G	 Zendikar	6	R	$1.45	$0.29	$0.11
+Tajuru Archer	2G	 Zendikar	6.2	U	$0.90	$0.18	$0.07
+Harrow	2G	 Zendikar	6.56	C	$0.80	$0.16	$0.07
+Turntimber Basilisk	1GG	 Zendikar	6.85	U	$0.95	$0.19	$0.08
+Grazing Gladehart	2G	 Zendikar	6.93	C	$0.85	$0.17	$0.05
+Frontier Guide	1G	 Zendikar	7.16	U	$0.85	$0.17	$0.07
+Vines of Vastwood	G	 Zendikar	7.33	C	$4.90	$0.98	$0.25
+Khalni Heart Expedition	1G	 Zendikar	7.44	C	$1.10	$0.22	$0.08
+Territorial Baloth	4G	 Zendikar	7.5	C	$0.75	$0.15	$0.03
+Baloth Cage Trap	3GG	 Zendikar	7.5	U	$0.85	$0.17	$0.05
+Mold Shambler	3G	 Zendikar	7.59	C	$0.75	$0.15	$0.05
+Greenweaver Druid	2G	 Zendikar	7.69	U	$1.00	$0.20	$0.09
+Timbermaw Larva	3G	 Zendikar	7.83	C	$0.75	$0.15	$0.05
+Primal Bellow	G	 Zendikar	7.89	U	$1.00	$0.20	$0.10
+Nissa's Chosen	GG	 Zendikar	8.08	C	$1.05	$0.21	$0.06
+Oran-Rief Recluse	2G	 Zendikar	8.08	C	$0.70	$0.14	$0.04
+Quest for the Gemblades	1G	 Zendikar	8.26	U	$0.85	$0.17	$0.05
+Cobra Trap	4GG	 Zendikar	8.31	U	$0.85	$0.17	$0.04
+Vastwood Gorger	5G	 Zendikar	8.83	C	$0.75	$0.15	$0.03
+Savage Silhouette	2G	 Zendikar	9	C	$0.75	$0.15	$0.04
+Scythe Tiger	G	 Zendikar	9.44	C	$0.75	$0.15	$0.05
+Joraga Bard	3G	 Zendikar	9.64	C	$0.75	$0.15	$0.04
+Zendikar Farguide	4G	 Zendikar	10.52	C	$0.75	$0.15	$0.04
+Relic Crush	4G	 Zendikar	10.52	C	$0.75	$0.15	$0.03
+Tanglesap	1G	 Zendikar	10.63	C	$0.75	$0.15	$0.04
+Beast Hunt	3G	 Zendikar	11.21	C	$0.75	$0.15	$0.04
+Ob Nixilis, the Fallen	3BB	 Zendikar	1.14	M	$17.61	$7.19	$4.76
+Sorin Markov	3BBB	 Zendikar	1.39	M	$25.28	$17.91	$12.24
+Kalitas, Bloodchief of Ghet	5BB	 Zendikar	1.59	M	$10.99	$7.38	$4.25
+Vampire Nighthawk	1BB	 Zendikar	1.59	U	$2.55	$1.00	$0.46
+Malakir Bloodwitch	3BB	 Zendikar	2.03	R	$3.17	$1.31	$0.80
+Guul Draz Specter	2BB	 Zendikar	2.24	R	$1.28	$0.43	$0.19
+Bloodchief Ascension	B	 Zendikar	2.49	R	$8.48	$5.67	$4.00
+Bloodghast	BB	 Zendikar	2.55	R	$32.50	$31.21	$29.45
+Halo Hunter	2BBB	 Zendikar	2.56	R	$1.80	$0.40	$0.15
+Gatekeeper of Malakir	BB	 Zendikar	2.63	U	$3.27	$1.43	$0.82
+Hideous End	1BB	 Zendikar	2.99	C	$0.75	$0.15	$0.05
+Bala Ged Thief	3B	 Zendikar	3	R	$1.75	$0.35	$0.15
+Disfigure	B	 Zendikar	3.62	C	$2.99	$0.63	$0.25
+Vampire Hexmage	BB	 Zendikar	3.82	U	$1.30	$0.26	$0.10
+Sadistic Sacrament	BBB	 Zendikar	3.98	R	$3.29	$1.49	$0.78
+Marsh Casualties	BB	 Zendikar	4.22	U	$0.90	$0.18	$0.04
+Vampire Lacerator	B	 Zendikar	5.38	C	$0.75	$0.15	$0.05
+Giant Scorpion	2B	 Zendikar	5.83	C	$0.70	$0.14	$0.04
+Quest for the Gravelord	B	 Zendikar	6.13	U	$1.10	$0.22	$0.11
+Blood Tribute	4BB	 Zendikar	6.29	R	$2.28	$0.86	$0.24
+Guul Draz Vampire	B	 Zendikar	6.61	C	$1.00	$0.20	$0.09
+Blood Seeker	1B	 Zendikar	6.62	C	$0.80	$0.16	$0.03
+Surrakar Marauder	1B	 Zendikar	6.86	C	$0.75	$0.15	$0.04
+Heartstabber Mosquito	3B	 Zendikar	6.89	C	$0.75	$0.15	$0.04
+Nimana Sell-Sword	3B	 Zendikar	7.15	C	$0.75	$0.15	$0.05
+Mind Sludge	4B	 Zendikar	7.19	U	$0.85	$0.17	$0.07
+Hagra Diabolist	4B	 Zendikar	7.34	U	$1.10	$0.22	$0.09
+Crypt Ripper	2BB	 Zendikar	7.45	C	$0.75	$0.15	$0.04
+Feast of Blood	1B	 Zendikar	8.15	U	$1.78	$0.65	$0.34
+Vampire's Bite	B	 Zendikar	8.49	C	$0.75	$0.15	$0.07
+Hagra Crocodile	3B	 Zendikar	9	C	$0.75	$0.15	$0.05
+Grim Discovery	1B	 Zendikar	9.27	C	$0.75	$0.15	$0.05
+Bog Tatters	4B	 Zendikar	9.29	C	$0.75	$0.15	$0.04
+Needlebite Trap	5BB	 Zendikar	9.32	U	$0.85	$0.17	$0.07
+Soul Stair Expedition	B	 Zendikar	9.33	C	$0.75	$0.15	$0.05
+Mire Blight	B	 Zendikar	10.35	C	$0.75	$0.15	$0.04
+Mindless Null	2B	 Zendikar	10.39	C	$0.75	$0.15	$0.04
+Desecrated Earth	4B	 Zendikar	11.21	C	$0.75	$0.15	$0.04
+Ravenous Trap	2BB	 Zendikar	11.74	U	$0.85	$0.17	$0.08
+Emeria Angel	2WW	 Zendikar	1.29	R	$2.74	$1.71	$1.10
+Day of Judgment	2WW	 Zendikar	1.45	R	$4.31	$2.60	$1.50
+Conqueror's Pledge	2WWW	 Zendikar	1.59	R	$2.05	$0.41	$0.17
+Iona, Shield of Emeria	6WWW	 Zendikar	1.61	M	$29.99	$7.71	$4.49
+Felidar Sovereign	4WW	 Zendikar	1.64	M	$6.29	$2.90	$1.00
+Luminarch Ascension	1W	 Zendikar	1.74	R	$8.48	$6.17	$4.69
+Devout Lightcaster	WWW	 Zendikar	1.99	R	$1.45	$0.29	$0.12
+Kabira Evangel	2W	 Zendikar	2.48	R	$5.99	$3.30	$1.25
+World Queller	3WW	 Zendikar	2.59	R	$2.05	$0.41	$0.19
+Celestial Mantle	3WWW	 Zendikar	2.61	R	$6.99	$3.99	$2.55
+Shepherd of the Lost	4W	 Zendikar	2.83	U	$0.85	$0.17	$0.08
+Journey to Nowhere	1W	 Zendikar	2.95	C	$3.67	$1.58	$0.33
+Armament Master	WW	 Zendikar	3.16	R	$1.21	$0.33	$0.10
+Kazandu Blademaster	WW	 Zendikar	3.26	U	$3.79	$1.99	$0.99
+Kor Skyfisher	1W	 Zendikar	4.27	C	$1.05	$0.21	$0.10
+Steppe Lynx	W	 Zendikar	5	C	$1.00	$0.20	$0.05
+Kor Aeronaut	WW	 Zendikar	6.03	U	$1.00	$0.20	$0.05
+Kor Hookmaster	2W	 Zendikar	6.2	C	$0.75	$0.15	$0.04
+Ondu Cleric	1W	 Zendikar	6.26	C	$1.30	$0.28	$0.10
+Pitfall Trap	2W	 Zendikar	6.43	U	$1.00	$0.20	$0.04
+Arrow Volley Trap	3WW	 Zendikar	6.9	U	$0.90	$0.18	$0.05
+Kor Sanctifiers	2W	 Zendikar	6.96	C	$0.75	$0.15	$0.05
+Windborne Charge	2WW	 Zendikar	7.38	U	$1.00	$0.20	$0.04
+Kor Cartographer	3W	 Zendikar	7.59	C	$0.75	$0.15	$0.05
+Kor Duelist	W	 Zendikar	7.59	U	$0.85	$0.17	$0.08
+Makindi Shieldmate	2W	 Zendikar	7.97	C	$0.75	$0.15	$0.05
+Cliff Threader	1W	 Zendikar	8.05	C	$0.75	$0.15	$0.04
+Brave the Elements	W	 Zendikar	8.34	U	$1.55	$0.31	$0.10
+Kor Outfitter	WW	 Zendikar	9.12	C	$0.80	$0.16	$0.07
+Nimbus Wings	1W	 Zendikar	9.51	C	$0.75	$0.15	$0.05
+Narrow Escape	2W	 Zendikar	9.66	C	$0.75	$0.15	$0.04
+Shieldmate's Blessing	W	 Zendikar	9.96	C	$0.70	$0.14	$0.03
+Bold Defense	2W	 Zendikar	10	C	$0.75	$0.15	$0.03
+Noble Vestige	2W	 Zendikar	10.16	C	$0.75	$0.15	$0.03
+Landbind Ritual	3WW	 Zendikar	10.16	U	$1.00	$0.20	$0.05
+Quest for the Holy Relic	W	 Zendikar	10.18	U	$1.05	$0.21	$0.08
+Pillarfield Ox	3W	 Zendikar	10.3	C	$0.75	$0.15	$0.04
+Caravan Hurda	4W	 Zendikar	10.39	C	$0.75	$0.15	$0.03
+Sunspring Expedition	W	 Zendikar	10.56	C	$0.75	$0.15	$0.05
+Goblin Guide	R	 Zendikar	1.32	R	$49.99	$37.00	$29.36
+Hellkite Charger	4RR	 Zendikar	1.36	R	$2.04	$0.82	$0.16
+Chandra Ablaze	4RR	 Zendikar	1.42	M	$10.99	$8.26	$4.00
+Obsidian Fireheart	1RRR	 Zendikar	1.57	M	$2.67	$1.42	$0.91
+Warren Instigator	RR	 Zendikar	1.62	M	$19.98	$11.07	$7.95
+Kazuul Warlord	4R	 Zendikar	2.83	R	$2.04	$0.48	$0.14
+Electropotence	2R	 Zendikar	3.08	R	$1.77	$0.37	$0.14
+Burst Lightning	R	 Zendikar	3.69	C	$0.85	$0.17	$0.08
+Punishing Fire	1R	 Zendikar	4.23	U	$2.45	$0.49	$0.15
+Elemental Appeal	RRRR	 Zendikar	4.34	R	$1.82	$0.39	$0.12
+Plated Geopede	1R	 Zendikar	4.46	C	$0.80	$0.16	$0.08
+Inferno Trap	3R	 Zendikar	5.47	U	$0.85	$0.17	$0.03
+Mark of Mutiny	2R	 Zendikar	6.16	U	$1.03	$0.21	$0.09
+Torch Slinger	2R	 Zendikar	6.31	C	$0.75	$0.15	$0.03
+Geyser Glider	3RR	 Zendikar	6.32	U	$0.85	$0.17	$0.04
+Bladetusk Boar	3R	 Zendikar	6.37	C	$0.75	$0.15	$0.03
+Goblin Bushwhacker	R	 Zendikar	6.54	C	$4.37	$1.61	$0.52
+Murasa Pyromancer	4RR	 Zendikar	6.97	U	$0.90	$0.18	$0.07
+Highland Berserker	1R	 Zendikar	7.04	C	$0.75	$0.15	$0.05
+Goblin Ruinblaster	2R	 Zendikar	7.09	U	$0.85	$0.17	$0.07
+Goblin Shortcutter	1R	 Zendikar	7.25	C	$0.75	$0.15	$0.04
+Hellfire Mongrel	2R	 Zendikar	7.36	U	$0.85	$0.17	$0.03
+Pyromancer Ascension	1R	 Zendikar	7.55	R	$14.99	$7.77	$5.75
+Zektar Shrine Expedition	1R	 Zendikar	7.73	C	$0.75	$0.15	$0.05
+Lavaball Trap	6RR	 Zendikar	7.84	R	$1.45	$0.29	$0.11
+Tuktuk Grunts	4R	 Zendikar	7.95	C	$0.75	$0.15	$0.04
+Shatterskull Giant	2RR	 Zendikar	8	C	$0.75	$0.15	$0.03
+Spire Barrage	4R	 Zendikar	8.11	C	$0.75	$0.15	$0.04
+Magma Rift	2R	 Zendikar	8.11	C	$0.75	$0.15	$0.04
+Goblin War Paint	1R	 Zendikar	8.96	C	$0.75	$0.15	$0.03
+Unstable Footing	R	 Zendikar	8.99	U	$0.85	$0.17	$0.05
+Molten Ravager	2R	 Zendikar	9.2	C	$0.75	$0.15	$0.03
+Slaughter Cry	2R	 Zendikar	9.29	C	$0.75	$0.15	$0.04
+Ruinous Minotaur	1RR	 Zendikar	9.36	C	$0.75	$0.15	$0.04
+Quest for Pure Flame	R	 Zendikar	9.58	U	$1.00	$0.20	$0.09
+Seismic Shudder	1R	 Zendikar	9.88	C	$0.75	$0.15	$0.04
+Runeflare Trap	4RR	 Zendikar	10.38	U	$0.85	$0.17	$0.08
+Demolish	3R	 Zendikar	10.42	C	$0.75	$0.15	$0.03
+Sphinx of Jwar Isle	4UU	 Zendikar	1.4	R	$1.45	$0.29	$0.11
+Roil Elemental	3UUU	 Zendikar	1.74	R	$2.28	$0.89	$0.35
+Sea Gate Loremaster	4U	 Zendikar	1.91	R	$2.15	$0.43	$0.18
+Lorthos, the Tidemaker	5UUU	 Zendikar	1.95	M	$3.00	$1.24	$0.57
+Sphinx of Lost Truths	3UU	 Zendikar	2.16	R	$1.90	$0.38	$0.14
+Rite of Replication	2UU	 Zendikar	2.8	R	$5.00	$1.79	$0.83
+Mindbreak Trap	2UU	 Zendikar	2.88	M	$11.99	$5.49	$3.99
+Living Tsunami	2UU	 Zendikar	3.29	U	$0.85	$0.17	$0.03
+Archive Trap	3UU	 Zendikar	3.84	R	$10.93	$8.54	$6.00
+Cosi's Trickster	U	 Zendikar	4.25	R	$2.22	$0.72	$0.30
+Umara Raptor	2U	 Zendikar	5.74	C	$0.75	$0.15	$0.05
+Merfolk Seastalkers	3U	 Zendikar	6	U	$0.85	$0.17	$0.04
+Windrider Eel	3U	 Zendikar	6.08	C	$0.70	$0.14	$0.04
+Hedron Crab	U	 Zendikar	6.18	U	$5.62	$3.33	$1.99
+Aether Figment	1U	 Zendikar	6.63	U	$0.90	$0.18	$0.05
+Into the Roil	1U	 Zendikar	6.66	C	$0.80	$0.16	$0.08
+Welkin Tern	1U	 Zendikar	6.67	C	$0.75	$0.15	$0.03
+Summoner's Bane	2UU	 Zendikar	7.34	U	$0.85	$0.17	$0.06
+Gomazoa	2U	 Zendikar	7.48	U	$0.90	$0.18	$0.06
+Sky Ruin Drake	4U	 Zendikar	7.7	C	$0.75	$0.15	$0.04
+Lullmage Mentor	1UU	 Zendikar	7.75	R	$2.10	$0.42	$0.15
+Paralyzing Grasp	2U	 Zendikar	7.92	C	$0.75	$0.15	$0.03
+Reckless Scholar	2U	 Zendikar	8.27	C	$0.75	$0.15	$0.04
+Whiplash Trap	3UU	 Zendikar	8.31	C	$0.75	$0.15	$0.04
+Cancel	1UU	 Zendikar	8.37	C	$0.75	$0.15	$0.05
+Seascape Aerialist	4U	 Zendikar	8.39	U	$0.95	$0.19	$0.09
+Merfolk Wayfinder	2U	 Zendikar	8.53	U	$0.85	$0.17	$0.04
+Spell Pierce	U	 Zendikar	8.56	C	$4.48	$2.18	$1.30
+Kraken Hatchling	U	 Zendikar	8.71	C	$0.75	$0.15	$0.06
+Spreading Seas	1U	 Zendikar	8.83	C	$3.60	$1.49	$0.44
+Archmage Ascension	2U	 Zendikar	9.01	R	$3.12	$1.25	$0.55
+Ior Ruin Expedition	1U	 Zendikar	9.09	C	$0.75	$0.15	$0.04
+Tempest Owl	1U	 Zendikar	9.49	C	$0.75	$0.15	$0.04
+Quest for Ancient Secrets	U	 Zendikar	9.7	U	$0.85	$0.17	$0.05
+Shoal Serpent	5U	 Zendikar	10.19	C	$0.75	$0.15	$0.03
+Lethargy Trap	3U	 Zendikar	10.22	C	$0.75	$0.15	$0.04
+Caller of Gales	U	 Zendikar	10.3	C	$0.75	$0.15	$0.03
+Trapmaker's Snare	1U	 Zendikar	10.52	U	$0.85	$0.17	$0.08
+Trapfinder's Trick	1U	 Zendikar	11.79	C	$0.75	$0.15	$0.04
