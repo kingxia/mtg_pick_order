@@ -16,4 +16,4 @@ Thanks to TCGPlayer for the pick orders for 3xZEN. You can find the original dat
 # Example
 Here's a sample P1P1 of a pack of Magic: Origins, provided by ChannelFireball [here.](http://www.channelfireball.com/articles/whats-the-pick-magic-origins-pack-1-pick-1-with-huey-2/)
 
-![mtg pick order in action](https://raw.githubusercontent.com/leroi/mtg_pick_order/readme/example.png)
+![mtg pick order in action](readme/example.png)
