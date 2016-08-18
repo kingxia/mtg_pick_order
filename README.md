@@ -1,7 +1,7 @@
 # Magic: the Gathering pick order
 For M:tG players who need a quick primer to draft formats they're new to.
 
-This python application allows M:tG players who are new to a format, need a leg up in drafting, or just need a second opinion on comparing two potential first picks, to get a leg up on the competition. Type in names of cards that you want analyzed, and get the card's ranking returned back, on an absolute scale of 0.0 to 5.0.
+This python application allows M:tG players who are new to a format, need a leg up in drafting, or just need a second opinion on comparing two potential first picks, to get a leg up on the competition. Type in names of cards that you want analyzed, and get the card's ranking returned back, with more preferred picks up top.
 
 Controls  
 Enter - Input new card (preserves old search results)  
@@ -17,3 +17,7 @@ Thanks to TCGPlayer for the pick orders for 3xZEN. You can find the original dat
 Here's a sample P1P1 of a pack of Magic: Origins, provided by ChannelFireball [here.](http://www.channelfireball.com/articles/whats-the-pick-magic-origins-pack-1-pick-1-with-huey-2/)
 
 ![mtg pick order in action](readme/example.png)
+
+# Pick Number
+
+There are two types of data provided so far. One scale goes from 0.0 (low) to 5.0 (high), and is an absolute rating of the card. The other scale goes from 1.0 (high) to 15.0 (low) and indicates the average pick the card is taken in. There's currently no obvious distinguishing factor between the two, but the program will always put the preferred picks at the top of the list, to make things easy for you!
