@@ -1,0 +1,142 @@
+Arc Tra	4.0
+Assault Stro	0.5
+Barrage Og	3.0
+Bloodshot Train	1.5
+Cerebral Erupti	4.5
+Embersmi	4.5
+Ferrovo	2.0
+Flameborn Helli	2.0
+Galvanic Bla	4.0
+Goblin Gavele	1.0
+Hoard-Smelter Drag	4.5
+Koth Of The Hamm	4.0
+Kuldotha Phoen	4.0
+Kuldotha Rebir	0.5
+Melt Terra	0.5
+Molten Psyc	0.0
+Ogre Geargrabb	1.0
+Oxidda Daredev	1.0
+Oxidda Scrapmelt	4.5
+Scoria Element	0.5
+Shatt	4.0
+Spikeshot Eld	4.5
+Tunnel Ign	0.5
+Turn To Sl	3.5
+Vulshok Heartstok	1.0
+Bonds Of Quicksilv	4.0
+Darkslick Dra	2.5
+Disper	3.0
+Dissipation Fie	2.5
+Grand Archite	1.0
+Halt Ord	4.0
+Inexorable Ti	3.0
+Neurok Invisimanc	3.0
+Plated Seastrid	3.0
+Quicksilver Gargantu	1.0
+Riddlesmi	2.5
+Scrapdiver Serpe	3.0
+Screeching Silc	1.5
+Shape An	0.5
+Sky-Eel Scho	0.5
+Steady Progre	3.0
+Stoic Rebutt	2.0
+Thrummingbi	1.5
+Trinket Ma	2.5
+Turn Asi	3.5
+Twisted Ima	0.5
+Vault Skywa	2.5
+Vedalken Certar	0.5
+Acid Web Spid	3.0
+Alpha Tyrran	1.5
+Ascetici	1.5
+Bellowing Tanglewu	3.0
+Blight Mam	3.0
+Blunt The Assau	0.5
+Carapace Forg	3.0
+Carrion Ca	2.5
+Copperhorn Sco	0.5
+Cystbear	3.0
+Engulfing Slagwu	1.5
+Ezuri, Renegade Lead	3.0
+Ezuri'S Arche	0.5
+Ezuri'S Briga	4.0
+Genesis Wa	2.0
+Liege Of The Tang	1.0
+Lifesmi	3.0
+Molder Bea	2.0
+Putref	3.5
+Slice In Twa	4.0
+Tangle Angl	3.0
+Tel-Jilad Defian	3.5
+Tel-Jilad Fall	3.0
+Viridian Rev	0.5
+Wing Punctu	0.5
+Withstand Dea	1.5
+Blistergr	1.0
+Carnifex Dem	4.0
+Corrupted Harvest	1.0
+Dross Hopp	1.0
+Exsanguina	1.5
+Flesh Aller	2.0
+Fume Spitt	2.0
+Geth, Lord Of The Vau	4.0
+Grasp Of Darkne	4.0
+Hand Of The Praeto	3.5
+Ichor Ra	3.0
+Instill Infecti	3.0
+Memorici	0.0
+Moriok Reav	1.5
+Necrogen Scudd	2.5
+Necrotic Oo	3.0
+Painful Quanda	0.0
+Painsmi	3.0
+Psychic Mias	0.0
+Relic Putrescen	0.5
+Skinrend	4.5
+Skithiryx, The Blight Drag	4.5
+Tainted Stri	1.0
+Accorder'S Shie	4.0
+Argentum Arm	2.5
+Auriok Repli	2.0
+Barbed Battlege	2.0
+<I>Scars</I> Dual Lan	2.5
+Bladed Pinio	3.0
+Chimeric Ma	1.5
+Chrome Ste	4.0
+Clone She	3.5
+Contagion Cla	2.5
+The My	4.5
+Corpse C	3.5
+Culling Da	3.5
+Darksteel A	3.0
+Darksteel Juggerna	3.0
+Darksteel M	3.0
+Darksteel Sentin	2.5
+Echo Circl	3.0
+Etched Champi	1.0
+Flight Spellbo	3.0
+Glimmerpo	3.0
+Glint Hawk Id	0.5
+Golden U	3.5
+Golem Artis	1.0
+Golem Found	3.0
+Golem'S Hea	1.0
+Grafted Exoskelet	0.5
+Grindclo	1.5
+Heavy Arbale	1.0
+Horizon Spellbo	2.5
+Ichorclaw M	2.5
+Kuldotha Forgemast	2.5
+Liquimetal Coati	2.5
+Livewire La	1.5
+Lux Cann	3.0
+Memni	2.0
+Mimic V	2.5
+Mindslav	3.5
+Molten-Tail Mastico	2.0
+Moriok Repli	5.0
+Mox Op	3.0
+Myr Battlesphe	1.5
+Myr Galvaniz	3.5
+Myr Propagat	1.5
+Myr Reservo	1.0

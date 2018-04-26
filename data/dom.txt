@@ -1,0 +1,249 @@
+Blessing Of Belzenlok	1.5
+Cabal Evangel	1.0
+Cabal Paladin	1.5
+Caligo Skin-witch	2.0
+Cast Down	4.0
+Chainer's Torment	1.5
+Dark Bargain	1.5
+Deathbloom Thallid	3.0
+Demonic Vigor	1.0
+Demonlord Belzenlok	4.0
+Divest	1.0
+Dread Shade	3.5
+Drudge Sentinel	1.5
+The Eldest Reborn	3.5
+Eviscerate	3.5
+Feral Abomination	1.5
+Final Parting	0.0
+Fungal Infection	3.0
+Josu Vess, Lich Knight	4.0
+Kazarov, Sengir Pureblood	3.0
+Knight Of Malice	3.5
+Lich's Mastery	0.0
+Lingering Phantom	1.5
+Phyrexian Scriptures	4.0
+Rat Colony	1.0
+Rite Of Belzenlok	3.5
+Settle The Score	3.5
+Soul Salvage	1.5
+Stronghold Confessor	3.0
+Thallid Omnivore	2.0
+Thallid Soothsayer	1.5	3.5
+Torgaar, Famine Incarnate	1.5	3.5
+Urgoros, The Empty One	1.5
+Vicious Offering	3.5
+Whisper, Blood Liturgist	1.5	3.0
+Windgrace Acolyte	2.5
+Yargle, Glutton Of Urborg	1.0
+Yawgmoth's Vile Offering	1.0	4.0
+Academy Drake	3.5
+Academy Journeymage	3.5
+The Antiquities War	0.0
+Arcane Flight	2.5
+Artificer's Assistant	1.5
+Befuddle	1.5
+Blink Of An Eye	3.0
+Cloudreader Sphinx	3.5
+Curator's Ward	0.0
+Deep Freeze	3.0
+Diligent Excavator	1.0
+Divination	2.0
+Homarid Explorer	1.5
+In Bolas's Clutches	4.5
+Karn's Temporal Sundering	0.5
+Merfolk Trickster	3.5
+The Mirari Conjecture	1.0	3.5
+Naban, Dean Of Iteration	1.5	3.0
+Naru Meha, Master Wizard	3.5
+Opt	1.5
+Relic Runner	1.5
+Rescue	0.5
+Sage Of Lat-nam	1.0
+Sentinel Of The Pearl Trident	2.0
+Slinn Voda, The Rising Deep	0.5
+Syncopate	2.5
+Tempest Djinn	3.5
+Tetsuko Umezawa, Fugitive	3.0
+Time Of Ice	3.5
+Tolarian Scholar	1.0
+Unwind	0.5
+Vodalian Arcanist	1.5
+Weight Of Memory	1.5
+Wizard's Retort	1.5
+Zahid, Djinn Of The Lamp	4.0
+Bloodstone Goblin	1.5
+Champion Of The Flame	1.0
+Fervent Strike	2.0
+Fiery Intervention	3.0
+Fight With Fire	4.0
+Fire Elemental	1.0
+Firefist Adept	3.0
+The Flame Of Keld	1.0
+Frenzied Rage	2.0
+Ghitu Chronicler	1.5	3.0
+Ghitu Journeymage	1.5
+Ghitu Lavarunner	1.0
+Goblin Barrage	3.0
+Goblin Chainwhirler	2.5
+Goblin Warchief	1.5
+Haphazard Bombardment	3.0
+Jaya Ballard	1.0
+Jaya's Immolating Inferno	1.0	4.5
+Keldon Overseer	2.5
+Keldon Raider	3.0
+Keldon Warcaller	1.5
+Orcish Vandal	1.0
+Radiating Lightning	1.0	2.0
+Rampaging Cyclops	3.0
+Run Amok	1.5
+Seismic Shift	0.5
+Shivan Fire	3.5
+Siege-gang Commander	5.0
+Skirk Prospector	0.0
+Skizzik	3.0
+Squee, The Immortal	3.0
+Two-headed Giant	3.5
+Valduk, Keeper Of The Flame	2.5	3.5
+Verix Bladewing	4.5
+Warcry Phoenix	1.5
+Warlord's Fury	1.0
+Wizard's Lightning	4.0
+Adamant Will	2.5
+Aven Sentry	2.0
+Baird, Steward Of Argive	3.0
+Benalish Honor Guard	1.5
+Benalish Marshal	3.5
+Blessed Light	3.0
+Board The Weatherlight	1.0
+Call The Cavalry	3.0
+Charge	1.5
+D'Avenant Trapper	2.0
+Danitha Capashen, Paragon	3.5
+Daring Archaeologist	3.5
+Dauntless Bodyguard	3.0
+Dub	2.0
+Evra, Halcyon Witness	3.0
+Excavation Elephant	2.5
+Fall Of The Thran	1.5
+Gideon's Reproach	3.0
+Healing Grace	1.0
+History Of Benalia	4.0
+Invoke The Divine	0.5
+Knight Of Grace	3.5
+Knight Of New Benalia	2.0
+Kwende, Pride Of Femeref	2.0
+Lyra Dawnbringer	4.5
+Mesa Unicorn	2.5
+On Serra's Wings	3.5
+Pegasus Courser	3.0
+Sanctum Spirit	3.0
+Seal Away	3.5
+Sergeant-at-arms	3.0
+Serra Angel	4.0
+Serra Disciple	1.5
+Shalai, Voice Of Plenty	4.5
+Teshar, Ancestor's Apostle	3.5	4.0
+Tragic Poet	0.5
+Triumph Of Gerrard	3.5
+Urza's Ruinous Blast	1.0	3.5
+Adeliz, The Cinder Wind	3.5
+Arvad The Cursed	3.0
+Aryel, Knight Of Windgrace	4.5
+Darigaaz Reincarnated	4.5
+Garna, The Bloodflame	3.5
+Grand Warlord Radha	4.0
+Hallar, The Firefletcher	3.5
+Jhoira, Weatherlight Captain	3.5
+Jodah, Archmage Eternal	1.5
+Muldrotha, The Gravetide	4.0
+Oath Of Teferi	0.5
+Primevals' Glorious Rebirth	0.0
+Raff Capashen, Ship's Mage	3.5
+Rona, Disciple Of Gix	2.0	3.5
+Shanna, Sisay's Legacy	3.0
+Slimefoot, The Stowaway	3.5
+Tatyova, Benthic Druid	4.0
+Teferi, Hero Of Dominaria	4.0
+Tiana, Ship's Caretaker	3.0
+Karn, Scion Of Urza	4.5
+Aesthir Glider	2.0
+Amaranthine Wall	1.0
+Blackblade Reforged	2.0	4.0
+Bloodtallow Candle	1.0
+Damping Sphere	0.0
+Forebear's Blade	3.0
+Gilded Lotus	1.5	3.0
+Guardians Of Koilos	1.0
+Helm Of The Host	4.0
+Howling Golem	1.0
+Icy Manipulator	4.5
+Jhoira's Familiar	2.0
+Jousting Lance	2.0
+Juggernaut	3.0
+Mishra's Self-replicator	3.5
+Mox Amber	1.0
+Navigator's Compass	0.0
+Pardic Wanderer	1.0
+Powerstone Shard	1.5
+Shield Of The Realm	1.0
+Short Sword	2.0
+Skittering Surveyor	3.0
+Sorcerer's Wand	1.5
+Sparring Construct	1.0
+Thran Temporal Gateway	0.0
+Traxos, Scourge Of The Kroog	4.0
+Urza's Tome	1.5	3.0
+Voltaic Servant	1.5
+Weatherlight	4.0
+Cabal Stronghold	0.0	3.0
+Clifftop Retreat	3.0
+Hinterland Harbor	3.0
+Isolated Chapel	3.0
+Sulfur Falls	3.0
+Woodland Cemetery	3.0
+Memorial To Folly	3.0
+Memorial To Genius	3.0
+Memorial To Glory	3.0
+Memorial To Unity	3.0
+Memorial To War	0.0
+Zhalfirin Void	2.0
+Adventurous Impulse	2.0
+Ancient Animus	3.0
+Arbor Armament	1.5
+Baloth Gorger	3.5
+Broken Bond	0.5
+Corrosive Ooze	1.5
+Elfhame Druid	3.5
+Fungal Plots	3.5
+Gaea's Blessing	0.5
+Gaea's Protector	1.0
+Gift Of Growth	2.0
+Grow From The Ashes	1.5
+Grunn, The Lonely King	3.0
+Kamahl's Druidic Vow	1.0	2.5
+Krosan Druid	2.0
+Llanowar Elves	3.5
+Llanowar Envoy	2.0
+Llanowar Scout	1.0
+Mammoth Spider	3.0
+Marwyn, The Nurturer	2.0
+The Mending Of Dominaria	3.0
+Multani, Yavimaya's Avatar	4.5
+Nature's Spiral	1.0
+Pierce The Sky	0.5
+Primordial Wurm	1.5
+Saproling Migration	3.0
+Song Of Freyalise	2.5	3.5
+Spore Swarm	3.0
+Sporecrown Thallid	2.5	3.5
+Steel Leaf Champion	4.0
+Sylvan Awakening	1.5	3.5
+Territorial Allosaurus	4.5
+Thorn Elemental	2.0
+Untamed Kavu	3.5
+Verdant Force	1.5	3.5
+Wild Onslaught	2.0
+Yavimaya Sapherd	3.0
+The First Eruption	3.0	0.0
+Cold-Water Snapper	1.0	2.5
+Precognition Field	1.5

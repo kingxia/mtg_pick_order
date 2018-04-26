@@ -1,0 +1,118 @@
+Abyssal Persecutor	2BB	 Worldwake	1.28	M	$6.00	$2.17	$1.25
+Butcher of Malakir	5BB	 Worldwake	1.43	R	$1.50	$0.59	$0.20
+Anowon, the Ruin Sage	3BB	 Worldwake	1.46	R	$6.95	$2.99	$1.70
+Kalastria Highborn	BB	 Worldwake	1.64	R	$8.99	$5.10	$3.14
+Death's Shadow	B	 Worldwake	1.88	R	$11.99	$9.25	$5.87
+Agadeem Occultist	2B	 Worldwake	1.93	R	$2.15	$0.58	$0.22
+Smother	1B	 Worldwake	3.73	U	$1.25	$0.25	$0.10
+Urge to Feed	BB	 Worldwake	4.66	U	$1.65	$0.33	$0.14
+Caustic Crawler	3BB	 Worldwake	5.35	U	$0.95	$0.19	$0.04
+Tomb Hex	2B	 Worldwake	5.44	C	$0.75	$0.15	$0.04
+Bloodhusk Ritualist	2B	 Worldwake	5.47	U	$1.03	$0.21	$0.10
+Nemesis Trap	4BB	 Worldwake	7.55	U	$0.90	$0.18	$0.04
+Ruthless Cullblade	1B	 Worldwake	7.78	C	$0.80	$0.16	$0.05
+Dead Reckoning	1BB	 Worldwake	7.78	C	$0.75	$0.15	$0.04
+Jagwasp Swarm	3B	 Worldwake	7.8	C	$0.75	$0.15	$0.03
+Bojuka Brigand	1B	 Worldwake	8.19	C	$0.75	$0.15	$0.05
+Shoreline Salvager	3B	 Worldwake	8.19	U	$0.95	$0.19	$0.04
+Quest for the Nihil Stone	B	 Worldwake	8.31	R	$2.45	$1.04	$0.75
+Pulse Tracker	B	 Worldwake	8.49	C	$0.90	$0.18	$0.06
+Quag Vampires	B	 Worldwake	9.04	C	$0.85	$0.17	$0.08
+Scrib Nibblers	2B	 Worldwake	9.4	U	$0.90	$0.18	$0.04
+Corrupted Zendikon	1B	 Worldwake	9.66	C	$0.75	$0.15	$0.04
+Brink of Disaster	2BB	 Worldwake	10.43	C	$0.75	$0.15	$0.04
+Mire's Toll	B	 Worldwake	10.67	C	$0.75	$0.15	$0.05
+Jace, the Mind Sculptor	2UU	 Worldwake	1.15	M	$112.86	$75.99	$53.00
+Goliath Sphinx	5UU	 Worldwake	1.45	R	$1.21	$0.30	$0.11
+Jwari Shapeshifter	1U	 Worldwake	3.44	R	$5.21	$2.53	$1.50
+Thada Adel, Acquisitor	1UU	 Worldwake	4.92	R	$3.18	$1.20	$0.35
+Tideforce Elemental	2U	 Worldwake	5.01	U	$0.95	$0.19	$0.08
+Voyager Drake	3U	 Worldwake	5.2	U	$0.90	$0.18	$0.04
+Vapor Snare	4U	 Worldwake	5.56	U	$0.85	$0.17	$0.03
+Horizon Drake	1UU	 Worldwake	5.83	U	$0.95	$0.19	$0.04
+Sejiri Merfolk	1U	 Worldwake	8	U	$0.95	$0.19	$0.07
+Calcite Snapper	1UU	 Worldwake	8.06	C	$0.70	$0.14	$0.06
+Halimar Excavator	1U	 Worldwake	8.19	C	$0.80	$0.16	$0.06
+Wind Zendikon	U	 Worldwake	8.23	C	$0.85	$0.17	$0.05
+Spell Contortion	2U	 Worldwake	8.3	U	$0.85	$0.17	$0.04
+Quest for Ula's Temple	U	 Worldwake	8.3	R	$4.08	$1.99	$0.80
+Aether Tradewinds	2U	 Worldwake	8.48	C	$0.75	$0.15	$0.03
+Treasure Hunt	1U	 Worldwake	8.49	C	$1.98	$0.58	$0.13
+Permafrost Trap	2UU	 Worldwake	9.04	U	$0.95	$0.19	$0.04
+Selective Memory	3U	 Worldwake	9.05	R	$1.45	$0.29	$0.11
+Mysteries of the Deep	4U	 Worldwake	9.1	C	$0.75	$0.15	$0.04
+Surrakar Banisher	4U	 Worldwake	9.65	C	$0.75	$0.15	$0.03
+Twitch	2U	 Worldwake	9.66	C	$0.80	$0.16	$0.03
+Enclave Elite	2U	 Worldwake	9.75	C	$0.75	$0.15	$0.03
+Dispel	U	 Worldwake	10.96	C	$1.25	$0.25	$0.10
+Admonition Angel	3WWW	 Worldwake	1.3	M	$8.00	$5.46	$4.34
+Stoneforge Mystic	1W	 Worldwake	1.41	R	$47.49	$17.99	$12.88
+Archon of Redemption	3WW	 Worldwake	1.64	R	$1.50	$0.30	$0.12
+Talus Paladin	3W	 Worldwake	2.19	R	$3.27	$1.60	$1.00
+Marshal's Anthem	2WW	 Worldwake	2.19	R	$2.25	$0.45	$0.20
+Hada Freeblade	W	 Worldwake	3.88	U	$3.88	$1.79	$0.75
+Kor Firewalker	WW	 Worldwake	4.79	U	$3.41	$1.43	$0.50
+Lightkeeper of Emeria	3W	 Worldwake	4.9	U	$1.10	$0.22	$0.10
+Join the Ranks	3W	 Worldwake	6.79	C	$0.75	$0.15	$0.08
+Iona's Judgment	4W	 Worldwake	7.07	C	$0.75	$0.15	$0.04
+Loam Lion	W	 Worldwake	7.18	U	$2.10	$0.42	$0.13
+Apex Hawks	2W	 Worldwake	7.19	C	$0.75	$0.15	$0.04
+Perimeter Captain	W	 Worldwake	7.4	U	$1.75	$0.35	$0.18
+Terra Eternal	2W	 Worldwake	7.66	R	$2.40	$0.48	$0.22
+Refraction Trap	3W	 Worldwake	7.77	U	$0.95	$0.19	$0.05
+Fledgling Griffin	1W	 Worldwake	8.07	C	$0.75	$0.15	$0.03
+Ruin Ghost	1W	 Worldwake	9.01	U	$1.00	$0.20	$0.08
+Marsh Threader	1W	 Worldwake	9.01	C	$0.75	$0.15	$0.03
+Battle Hurda	4W	 Worldwake	9.45	C	$0.75	$0.15	$0.03
+Kitesail Apprentice	W	 Worldwake	10.12	C	$0.80	$0.16	$0.08
+Guardian Zendikon	2W	 Worldwake	10.38	C	$0.75	$0.15	$0.04
+Veteran's Reflexes	W	 Worldwake	10.5	C	$0.75	$0.15	$0.03
+Rest for the Weary	1W	 Worldwake	10.51	C	$1.90	$0.38	$0.14
+Dragonmaster Outcast	R	 Worldwake	1.27	M	$19.21	$4.46	$1.99
+Mordant Dragon	3RRR	 Worldwake	1.45	R	$1.75	$0.35	$0.16
+Kazuul, Tyrant of the Cliffs	3RR	 Worldwake	1.51	R	$1.99	$0.83	$0.45
+Comet Storm	XRR	 Worldwake	1.61	M	$2.39	$1.03	$0.45
+Chain Reaction	2RR	 Worldwake	1.95	R	$1.75	$0.35	$0.16
+Cunning Sparkmage	2R	 Worldwake	3.02	U	$0.95	$0.19	$0.05
+Stone Idol Trap	5R	 Worldwake	4.11	R	$1.50	$0.30	$0.11
+Searing Blaze	RR	 Worldwake	5.38	C	$2.89	$1.03	$0.54
+Deathforge Shaman	4R	 Worldwake	5.89	U	$0.95	$0.19	$0.04
+Bazaar Trader	1R	 Worldwake	7.67	R	$1.99	$0.72	$0.34
+Tuktuk Scrapper	3R	 Worldwake	7.88	U	$1.05	$0.29	$0.12
+Akoum Battlesinger	1R	 Worldwake	8.68	C	$0.90	$0.18	$0.08
+Slavering Nulls	1R	 Worldwake	8.74	U	$0.85	$0.17	$0.06
+Skitter of Lizards	R	 Worldwake	9.3	C	$0.75	$0.15	$0.04
+Goblin Roughrider	2R	 Worldwake	9.66	C	$0.75	$0.15	$0.03
+Ricochet Trap	3R	 Worldwake	9.83	U	$4.08	$0.85	$0.25
+Claws of Valakut	1RR	 Worldwake	9.99	C	$0.80	$0.16	$0.05
+Crusher Zendikon	2R	 Worldwake	10.03	C	$0.75	$0.15	$0.04
+Cosi's Ravager	3R	 Worldwake	10.06	C	$0.75	$0.15	$0.03
+Grotag Thrasher	4R	 Worldwake	10.08	C	$0.75	$0.15	$0.03
+Quest for the Goblin Lord	R	 Worldwake	10.9	U	$2.40	$0.48	$0.24
+Bull Rush	R	 Worldwake	10.92	C	$0.75	$0.15	$0.04
+Rumbling Aftershocks	4R	 Worldwake	11.16	U	$0.95	$0.19	$0.04
+Roiling Terrain	2RR	 Worldwake	11.18	C	$0.80	$0.16	$0.08
+Avenger of Zendikar	5GG	 Worldwake	1.31	M	$15.00	$4.27	$3.15
+Omnath, Locus of Mana	2G	 Worldwake	1.45	M	$17.99	$11.00	$6.96
+Strength of the Tajuru	XGG	 Worldwake	1.69	R	$1.65	$0.33	$0.15
+Joraga Warcaller	G	 Worldwake	1.78	R	$5.41	$3.03	$2.35
+Terastodon	6GG	 Worldwake	1.88	R	$2.49	$0.52	$0.25
+Harabaz Druid	1G	 Worldwake	1.92	R	$6.89	$4.55	$2.15
+Wolfbriar Elemental	2GG	 Worldwake	2.16	R	$2.75	$0.55	$0.14
+Leatherback Baloth	GGG	 Worldwake	3.63	U	$4.18	$1.84	$0.99
+Bestial Menace	3GG	 Worldwake	4.91	U	$0.95	$0.19	$0.04
+Canopy Cover	1G	 Worldwake	7.11	U	$1.50	$0.30	$0.12
+Explore	1G	 Worldwake	7.65	C	$2.45	$0.49	$0.30
+Graypelt Hunter	3G	 Worldwake	7.78	C	$0.75	$0.15	$0.05
+Vastwood Animist	2G	 Worldwake	7.95	U	$1.00	$0.20	$0.05
+Groundswell	G	 Worldwake	8.12	C	$4.00	$0.99	$0.38
+Summit Apes	3G	 Worldwake	8.19	U	$0.95	$0.19	$0.06
+Arbor Elf	G	 Worldwake	8.24	C	$1.03	$0.21	$0.05
+Quest for Renewal	1G	 Worldwake	8.77	U	$2.00	$0.40	$0.10
+Gnarlid Pack	1G	 Worldwake	8.82	C	$0.75	$0.15	$0.03
+Slingbow Trap	3G	 Worldwake	9.57	U	$0.90	$0.18	$0.04
+Snapping Creeper	2G	 Worldwake	9.74	C	$0.75	$0.15	$0.04
+Grappler Spider	1G	 Worldwake	9.75	C	$0.75	$0.15	$0.04
+Vastwood Zendikon	4G	 Worldwake	9.96	C	$0.75	$0.15	$0.04
+Nature's Claim	G	 Worldwake	10.28	C	$2.68	$0.75	$0.30
+Feral Contest	3G	 Worldwake	11.27	C	$0.75	$0.15	$0.04

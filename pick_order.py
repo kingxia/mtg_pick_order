@@ -13,11 +13,14 @@ from msvcrt import getch
 import os
 from lib.card import Card
 
-filename_dict = {'ORI':"data/ori.txt",
+filename_dict = {'DOM':'data/dom.txt',
+                 'ORI':"data/ori.txt",
+                 'KLD':"data/kld.txt",
                  'KTK':"data/ktk.txt",
                  'DTK':"data/dtk.txt",
+		 'WWK':"data/wwk.txt",
 		 'ZEN':"data/zenzenzen.txt"}
-ascending_sets = ['ZEN']
+ascending_sets = ['ZEN', 'WWK']
 lsv_set_index = 1
 tcg_set_index = 3
 exit_command = 3 #ctrl-c
@@ -54,7 +57,15 @@ def load_pick_order(filename, is_asc=False):
     for line in file_lines:
         line_split = line.split("\t")
         card_names.append(line_split[0])
-        pick_dict[line_split[0]] = float(line_split[pick_index])
+        #print line_split, tcg_set_index, lsv_set_index
+        if is_asc:
+            pick_dict[line_split[0]] = [float(line_split[tcg_set_index])]
+        elif len(line_split) > 2:
+            #print line_split
+            pick_dict[line_split[0]] = [float(line_split[lsv_set_index]),
+                                        float(line_split[lsv_set_index + 1])]
+        else:
+            pick_dict[line_split[0]] = [float(line_split[lsv_set_index])]
 
     return card_names, pick_dict
 
