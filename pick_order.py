@@ -19,7 +19,8 @@ filename_dict = {'DOM':'data/dom.txt',
                  'KTK':"data/ktk.txt",
                  'DTK':"data/dtk.txt",
 		 'WWK':"data/wwk.txt",
-		 'ZEN':"data/zenzenzen.txt"}
+		 'ZEN':"data/zenzenzen.txt",
+                 'RNA':"data/rna.txt"}
 ascending_sets = ['ZEN', 'WWK']
 lsv_set_index = 1
 tcg_set_index = 3

@@ -1,0 +1,239 @@
+Awaken The Erstwhile	0.0
+Bankrupt In Blood	1.0
+Blade Juggler	3.0
+Bladebrand	2.0
+Bloodmist Infiltrator	2.0
+Carrion Imp	1.5
+Catacomb Crocodile	2.5
+Clear The Stage	3.0
+Consign To The Pit	2.0
+Cry Of The Carnarium	3.0
+Dead Revels	2.5
+Debtors' Transport	1.5
+Drill Bit	1.5
+Font Of Agonies	0.0	1.5
+Grotesque Demise	3.0
+Gutterbones	3.0
+Ill-gotten Inheritance	2.0
+Noxious Groodion	2.5
+Orzhov Enforcer	3.0
+Orzhov Racketeers	3.0
+Pestilent Spirit	3.5
+Plague Wight	2.0
+Priest Of Forgotten Gods	1.0	3.0
+Rakdos Trumpeter	2.5
+Spawn Of Mayhem	4.0
+Spire Mangler	3.0
+Thirsting Shade	1.0
+Undercity Scavenger	2.5
+Undercity’s Embrace	1.0
+Vindictive Vampire	3.5
+Arrester's Admonition	3.0
+Benthic Biomancer	2.5
+Chillbringer	3.5
+Clear The Mind	1.0
+Code Of Constraint	3.0
+Coral Commando	1.0
+Essence Capture	2.5
+Eyes Everywhere	1.0
+Faerie Duelist	3.0
+Gateway Sneak	2.5	3.5
+Humongulus	1.5
+Mass Manipulation	3.0	4.0
+Mesmerizing Benthid	4.0
+Persistent Petitioners	1.0
+Precognitive Perception	3.0
+Prying Eyes	1.5
+Pteramander	3.0
+Quench	2.0
+Sage's Row Savant	2.5
+Senate Courier	2.5
+Shimmer Of Possibility	2.0
+Skatewing Spy	3.5
+Skitter Eel	3.0
+Slimebind	2.0
+Sphinx Of Foresight	4.0
+Swirling Torrent	3.0
+Thought Collapse	2.0
+Verity Circle	2.5
+Wall Of Lost Thoughts	1.0
+Windstorm Drake	3.0
+Axebane Beast	2.5
+Biogenic Ooze	4.5
+Biogenic Upgrade	3.0
+End-raze Forerunners	4.0
+Enraged Ceratok	3.5
+Gatebreaker Ram	1.0	3.0
+Gift Of Strength	2.0
+Growth-chamber Guardian	3.0
+Gruul Beastmaster	3.0
+Guardian Project	3.5
+Incubation Druid	3.5
+Mammoth Spider	3.0
+Open The Gates	1.5
+Rampage Of The Clans	0.0
+Rampaging Rendhorn	3.0
+Regenesis	1.0
+Root Snare	0.5
+Sagittar’s Volley	1.0
+Saruli Caretaker	0.0
+Sauroform Hybrid	3.0
+Silhana Wayfinder	3.0
+Steeple Creeper	1.5
+Stony Strength	1.5
+Sylvan Brushstrider	1.5
+Territorial Boar	2.0
+Titanic Brawl	3.0
+Tower Defense	1.0
+Trollbred Guardian	3.5
+Wilderness Reclamation	0.5
+Wrecking Beast	2.0
+Act Of Treason	1.5	3.0
+Amplifire	3.5
+Burn Bright	1.0
+Burning-tree Vandal	3.0
+Cavalcade Of Calamity	1.0
+Clamor Shaman	3.0
+Dagger Caster	3.5
+Deface	1.0
+Electrodominance	4.0
+Feral Maaka	1.5
+Flames Of The Raze-boar	2.0	3.5
+Gates Ablaze	1.0	3.5
+Ghor-clan Wrecker	1.5
+Goblin Gathering	1.5	2.5
+Gravel-hide Goblin	3.0
+Immolation Shaman	3.0
+Light Up The Stage	3.0
+Mirror March	0.0
+Rix Maadi Reveler	3.0
+Rubble Reading	0.0
+Rubblebelt Recluse	3.0
+Rumbling Ruin	3.0
+Scorchmark	3.0
+Skarrgan Hellkite	4.5
+Skewer The Critics	3.5
+Smelt-ward Ignus	2.5
+Spear Spewer	3.0
+Spikewheel Acrobat	1.0
+Storm Strike	2.0
+Tin Street Dodger	1.0
+Angelic Exaltation	3.0
+Angel Of Grace	4.5
+Archway Angel	1.0	3.0
+Arrester's Zeal	2.5
+Bring To Trial	2.5
+Civic Stalwart	2.5
+Concordia Pegasus	2.5
+Expose To Daylight	1.0
+Forbidding Spirit	3.0
+Haazda Officer	1.5
+Hero Of Precinct One	3.5
+Impassioned Orator	2.5
+Justiciar's Portal	2.0
+Knight Of Sorrows	2.0
+Lumbering Battlement	4.0
+Ministrant Of Obligation	3.5
+Prowling Caracal	1.5
+Rally To Battle	2.5	3.5
+Resolute Watchdog	3.0
+Sentinel's Mark	3.5
+Sky Tether	3.0
+Smothering Tithe	1.0
+Spirit Of The Spires	3.5
+Summary Judgment	3.0
+Syndicate Messenger	3.0
+Tenth District Veteran	1.5
+Tithe Taker	3.0
+Twilight Panther	2.0
+Unbreakable Formation	3.5
+Watchful Giant	1.5
+Absorb	2.0
+Azorius Knight-arbiter	3.0
+Azorius Skyguard	3.5
+Deputy Of Detention	3.5
+Dovin, Grand Arbiter	4.0
+Dovin’s Acuity	2.5
+High Alert	1.0	2.0
+Lavinia, Azorius Renegade	1.0
+Lawmage’s Binding	3.5
+Senate Guildmage	3.5
+Sphinx Of New Prahv	3.5
+Sphinx’s Insight	2.5
+Senate Griffin	3.0
+Depose // Deploy	3.5
+Warrant // Warden	4.0
+Basilica Bell-haunt	3.5
+Ethereal Absolution	5.0
+Final Payment	3.0
+Grasping Thrull	3.5
+Imperious Oligarch	3.0
+Kaya, Orzhov Usurper	2.5
+Kaya’s Wrath	4.0
+Knight Of The Last Breath	2.0
+Mortify	3.5
+Pitiless Pontiff	3.0
+Seraph Of The Scales	4.5
+Syndicate Guildmage	3.0
+Teysa Karlov	1.5	3.0
+Vizkopa Vampire	2.0
+Consecrate // Consume	3.5
+Revival // Revenge	2.5
+Aeromunculus	3.0
+Applied Biomancy	3.0
+Biomancer’s Familiar	2.0	3.5
+Combine Guildmage	3.5
+Frilled Mystic	3.0
+Galloping Lizrog	3.0
+Growth Spiral	2.0
+Gyre Engineer	3.0
+Hydroid Krasis	4.5
+Prime Speaker Vannifar	3.5
+Sharktocrab	4.0
+Simic Ascendancy	3.0
+Zegana, Utopian Speaker	4.0
+Scuttlegator	1.5
+Incubation // Incongruity	2.5
+Repudiate // Replicate	3.0
+Most Important Simic Common	2.0
+<span Style="color: #000080;">artifacts</span>	1.5
+Lockets	1.0	3.0
+Gate Colossus	1.0
+Junktroller	1.0
+Scrabbling Claws	1.0
+Screaming Shield	1.5
+Sphinx Of The Guildpact	3.5
+Tome Of The Guildpact	3.0
+Bolrac-clan Crusher	3.5
+Cindervines	1.0
+Clan Guildmage	3.0
+Domri, Chaos Bringer	3.5
+Frenzied Arynx	3.5
+Gruul Spellbreaker	3.5
+Ravager Wurm	4.5
+Rhythm Of The Wild	3.5
+Rubblebelt Runner	3.0
+Savage Smash	3.5
+Sunder Shaman	3.5
+Zhur-taa Goblin	3.5
+Rubble Slinger	1.5
+Collision // Colossus	3.5
+Thrash // Threat	4.0
+Bedevil	3.5
+Captive Audience	2.5	3.5
+Cult Guildmage	3.5
+Fireblade Artist	3.0
+Get The Point	3.0
+Hackrobat	3.0
+Judith, The Scourge Diva	4.0
+Macabre Mockery	1.5
+Rafter Demon	1.5
+Rakdos Firewheeler	4.0
+Rakdos Roustabout	3.0
+Rakdos, The Showstopper	4.5
+Theater Of Horrors	4.5
+Footlight Fiend	2.5
+Bedeck // Bedazzle	3.5
+Carnival // Carnage	3.0
+Nikya of the Old Ways	4.0
+Emergency Powers	1.0
