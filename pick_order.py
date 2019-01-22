@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 ##M:tG pick order lookup
-##King Xia
 
 ##TODO:
 ####Add card compare
-####Populate KTK draft file, add FRF as well
 ####Add formatting to files to allow multiple formats
 ######OR allow multiple files to be accessed at once
 ####Add a "Did you mean?" section for edit distance matches
@@ -16,7 +14,6 @@ from lib.card import Card
 filename_dict = {'DOM':'data/dom.txt',
                  'ORI':"data/ori.txt",
                  'KLD':"data/kld.txt",
-                 'KTK':"data/ktk.txt",
                  'DTK':"data/dtk.txt",
 		 'WWK':"data/wwk.txt",
 		 'ZEN':"data/zenzenzen.txt",

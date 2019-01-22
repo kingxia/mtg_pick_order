@@ -26,7 +26,7 @@ Spawn Of Mayhem	4.0
 Spire Mangler	3.0
 Thirsting Shade	1.0
 Undercity Scavenger	2.5
-Undercity’s Embrace	1.0
+Undercity's Embrace	1.0
 Vindictive Vampire	3.5
 Arrester's Admonition	3.0
 Benthic Biomancer	2.5
@@ -75,7 +75,7 @@ Rampage Of The Clans	0.0
 Rampaging Rendhorn	3.0
 Regenesis	1.0
 Root Snare	0.5
-Sagittar’s Volley	1.0
+Sagittar's Volley	1.0
 Saruli Caretaker	0.0
 Sauroform Hybrid	3.0
 Silhana Wayfinder	3.0
@@ -153,13 +153,13 @@ Azorius Knight-arbiter	3.0
 Azorius Skyguard	3.5
 Deputy Of Detention	3.5
 Dovin, Grand Arbiter	4.0
-Dovin’s Acuity	2.5
+Dovin's Acuity	2.5
 High Alert	1.0	2.0
 Lavinia, Azorius Renegade	1.0
-Lawmage’s Binding	3.5
+Lawmage's Binding	3.5
 Senate Guildmage	3.5
 Sphinx Of New Prahv	3.5
-Sphinx’s Insight	2.5
+Sphinx's Insight	2.5
 Senate Griffin	3.0
 Depose // Deploy	3.5
 Warrant // Warden	4.0
@@ -169,7 +169,7 @@ Final Payment	3.0
 Grasping Thrull	3.5
 Imperious Oligarch	3.0
 Kaya, Orzhov Usurper	2.5
-Kaya’s Wrath	4.0
+Kaya's Wrath	4.0
 Knight Of The Last Breath	2.0
 Mortify	3.5
 Pitiless Pontiff	3.0
@@ -181,7 +181,7 @@ Consecrate // Consume	3.5
 Revival // Revenge	2.5
 Aeromunculus	3.0
 Applied Biomancy	3.0
-Biomancer’s Familiar	2.0	3.5
+Biomancer's Familiar	2.0	3.5
 Combine Guildmage	3.5
 Frilled Mystic	3.0
 Galloping Lizrog	3.0
@@ -195,9 +195,11 @@ Zegana, Utopian Speaker	4.0
 Scuttlegator	1.5
 Incubation // Incongruity	2.5
 Repudiate // Replicate	3.0
-Most Important Simic Common	2.0
-<span Style="color: #000080;">artifacts</span>	1.5
-Lockets	1.0	3.0
+Azorius Locket	2.0
+Orzhov Locket	2.0
+Simic Locket	2.0
+Rakdos Locket	1.5
+Gruul Locket	1.5
 Gate Colossus	1.0
 Junktroller	1.0
 Scrabbling Claws	1.0
