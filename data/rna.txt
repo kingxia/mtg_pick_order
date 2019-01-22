@@ -239,3 +239,14 @@ Bedeck // Bedazzle	3.5
 Carnival // Carnage	3.0
 Nikya of the Old Ways	4.0
 Emergency Powers	1.0
+Azorius Guildgate	3.0
+Gruul Guildgate	3.0
+Rakdos Guildgate	3.0
+Simic Guildgate	3.0
+Orzhov Guildgate	3.0
+Blood Crypt	3.0
+Stomping Ground	3.0
+Hallowed Fountain	3.0
+Breeding Pool	3.0
+Godless Shrine	3.0
+Glass of the Guildpact	3.0
