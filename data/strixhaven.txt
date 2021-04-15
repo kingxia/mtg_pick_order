@@ -1,0 +1,338 @@
+Professor Onyx	5
+Velomachus Lorehold	4.93
+Blot Out the Sky	4.93
+Hofri Ghostforge	4.86
+Tanazir Quandrix	4.86
+Extus, Oriq Overlord // Awaken the Blood Avatar	4.79
+Shadrix Silverquill	4.79
+Day of Judgment	4.67
+Shaile, Dean of Radiance // Embrose, Dean of Shadow	4.64
+Swords to Plowshares	4.58
+Rowan, Scholar of Sparks // Will, Scholar of Frost	4.57
+Mila, Crafty Companion // Lukka, Wayward Bonder	4.57
+Sedgemoor Witch	4.5
+Valentin, Dean of the Vein // Lisette, Dean of the Root	4.5
+Beledros Witherbloom	4.5
+Uvilda, Dean of Perfection // Nassari, Dean of Expression	4.36
+Lorehold Command	4.36
+Selfless Glyphweaver // Deadly Vanity	4.36
+Plargg, Dean of Chaos // Augusta, Dean of Order	4.29
+Galazeth Prismari	4.29
+Mascot Exhibition	4.25
+Crux of Fate	4.25
+Multiple Choice	4.21
+Poet's Quill	4.21
+Time Warp	4.17
+Leonin Lightscribe	4.14
+Gnarled Professor	4.08
+Lightning Bolt	4.08
+Dramatic Finale	4.07
+Kianne, Dean of Substance // Imbraham, Dean of Theory	4.07
+Magma Opus	4.07
+Archmage Emeritus	4
+Sparring Regimen	4
+Crackle with Power	4
+Augmenter Pugilist // Echoing Equation	4
+Igneous Inspiration	3.94
+Mavinda, Students' Advocate	3.93
+Venerable Warsinger	3.93
+Dragonsguard Elite	3.92
+Blex, Vexing Pest // Search for Blex	3.92
+Mortality Spear	3.88
+Silverquill Command	3.86
+Doom Blade	3.83
+Putrefy	3.83
+Elemental Expressionist	3.79
+Kasmina, Enigma Sage	3.79
+Elite Spellbinder	3.79
+Blade Historian	3.79
+Closing Statement	3.78
+Zimone, Quandrix Prodigy	3.78
+Primal Command	3.75
+Killian, Ink Duelist	3.72
+Flunk	3.72
+Radiant Scrollwielder	3.71
+Retriever Phoenix	3.71
+Quandrix Command	3.64
+Master Symmetrist	3.63
+Approach of the Second Sun	3.58
+Mizzix's Mastery	3.58
+Lightning Helix	3.58
+Baleful Mastery	3.57
+Dina, Soul Steeper	3.56
+Dream Strix	3.5
+Draconic Intervention	3.5
+Heated Debate	3.5
+Wandering Archaic // Explore the Vastlands	3.5
+Electrolyze	3.5
+Frost Trickster	3.44
+Necrotic Fumes	3.44
+Maelstrom Muse	3.44
+Quintorius, Field Historian	3.44
+Rip Apart	3.44
+Efreet Flamepainter	3.43
+Body of Research	3.43
+Tempted by the Oriq	3.43
+Prismari Command	3.43
+Jadzi, Oracle of Arcavios // Journey to the Oracle	3.43
+Harmonize	3.42
+Natural Order	3.42
+Professor of Symbology	3.39
+Quandrix Cultivator	3.39
+Rootha, Mercurial Artist	3.39
+Daemogoth Woe-Eater	3.38
+Conspiracy Theorist	3.36
+Tezzeret's Gambit	3.33
+Urza's Rage	3.33
+Devouring Tendrils	3.31
+Kelpie Guide	3.22
+Mage Hunters' Onslaught	3.22
+Quandrix Apprentice	3.22
+Divide by Zero	3.22
+Torrent Sculptor // Flamethrower Sonata	3.21
+Manifestation Sage	3.21
+Bookwurm	3.19
+Emergent Sequence	3.19
+Blue Sun's Zenith	3.17
+Demonic Tutor	3.17
+Eliminate	3.17
+Callous Bloodmage	3.14
+Witherbloom Apprentice	3.13
+Returned Pastcaller	3.11
+Decisive Denial	3.11
+Practical Research	3.11
+Harness Infinity	3.08
+Vanishing Verse	3.07
+Mage Duel	3.06
+Biomathematician	3.06
+Tenured Inkcaster	3.06
+Mentor's Guidance	3
+Brackish Trudge	3
+Elemental Summoning	3
+Umbral Juke	3
+Pest Summoning	3
+Compulsive Research	3
+Counterspell	3
+Expressive Iteration	2.94
+Inkling Summoning	2.94
+Overgrown Arch	2.94
+Flamescroll Celebrant // Revel in Silence	2.93
+Accomplished Alchemist	2.92
+Basic Conjuration	2.92
+Shock	2.92
+Field Trip	2.88
+Honor Troll	2.88
+Professor of Zoomancy	2.88
+Zephyr Boots	2.88
+Eyetwitch	2.83
+Thunderous Orator	2.83
+Hall of Oracles	2.83
+Teachings of the Archaics	2.79
+Combat Professor	2.78
+Tome Shredder	2.78
+Bayou Groff	2.75
+Pestilent Cauldron // Restorative Burst	2.75
+Lash of Malice	2.72
+Humiliate	2.72
+Ardent Dustspeaker	2.72
+Eureka Moment	2.72
+Shadewing Laureate	2.72
+Hunt for Specimens	2.72
+Blood Researcher	2.69
+Quandrix Pledgemage	2.67
+Spirit Summoning	2.67
+Gods Willing	2.67
+Sign in Blood	2.67
+Cultivate	2.67
+Oriq Loremage	2.64
+Illuminate History	2.64
+Creative Outburst	2.61
+Mage Hunter	2.61
+Needlethorn Drake	2.61
+Spectacle Mage	2.61
+Environmental Sciences	2.56
+Introduction to Annihilation	2.56
+Karok Wrangler	2.56
+Rise of Extus	2.56
+Spiteful Squad	2.56
+Prismari Apprentice	2.56
+Storm-Kiln Artist	2.56
+Lorehold Pledgemage	2.5
+Fractal Summoning	2.5
+Wormhole Serpent	2.5
+Devastating Mastery	2.5
+Deadly Brew	2.5
+Team Pennant	2.5
+Teferi's Protection	2.5
+Faithless Looting	2.5
+Growth Spiral	2.5
+Bury in Books	2.44
+Illustrious Historian	2.44
+Expel	2.44
+Pilgrim of the Ages	2.44
+Prismari Pledgemage	2.44
+Moldering Karok	2.44
+Ingenious Mastery	2.43
+Memory Lapse	2.42
+Increasing Vengeance	2.42
+Reconstruct History	2.39
+Lorehold Apprentice	2.39
+Tend the Pests	2.38
+Quandrix Campus	2.38
+Dueling Coach	2.33
+Pigment Storm	2.33
+Witherbloom Command	2.33
+Ephemerate	2.33
+Opt	2.33
+Introduction to Prophecy	2.31
+Access Tunnel	2.31
+Witherbloom Campus	2.31
+Silverquill Silencer	2.29
+Snow Day	2.28
+Silverquill Pledgemage	2.28
+Stonebound Mentor	2.28
+Daemogoth Titan	2.25
+Witherbloom Pledgemage	2.25
+Strixhaven Stadium	2.25
+Frostboil Snarl	2.25
+Furycalm Snarl	2.25
+Necroblossom Snarl	2.25
+Shineshadow Snarl	2.25
+Silverquill Campus	2.25
+Vineglimmer Snarl	2.25
+Agonizing Remorse	2.25
+Abundant Harvest	2.25
+Regrowth	2.25
+Snakeskin Veil	2.25
+Elemental Masterpiece	2.22
+Pillardrop Rescuer	2.22
+Leech Fanatic	2.22
+Reduce to Memory	2.22
+Aether Helix	2.22
+Silverquill Apprentice	2.22
+Lorehold Excavation	2.22
+Scurrid Colony	2.19
+Lorehold Campus	2.19
+Prismari Campus	2.19
+Blood Age General	2.17
+Arrogant Poet	2.17
+Brainstorm	2.17
+Grapeshot	2.17
+Expanded Anatomy	2.13
+Containment Breach	2.13
+Pillardrop Warden	2.11
+Plumb the Forbidden	2.11
+Grinning Ignus	2.11
+Stonebinder's Familiar	2.11
+Unwilling Ingredient	2.11
+Chaos Warp	2.08
+Fortifying Draught	2.06
+Pop Quiz	2.06
+Waterfall Aerialist	2.06
+Start from Scratch	2.06
+Star Pupil	2
+Specter of the Fens	2
+Academic Dispute	2
+Vortex Runner	2
+Ecological Appreciation	2
+Infuse with Vitality	2
+Burrog Befuddler	1.94
+Strict Proctor	1.93
+The Biblioplex	1.92
+Village Rites	1.92
+Thrill of Possibility	1.92
+Despark	1.92
+Relic Sloth	1.89
+Golden Ratio	1.89
+Fuming Effigy	1.89
+Owlin Shieldmage	1.89
+Reflective Golem	1.88
+Semester's End	1.86
+Explosive Welcome	1.83
+Verdant Mastery	1.83
+Infuriate	1.83
+Letter of Acceptance	1.81
+Exhilarating Elocution	1.78
+Guiding Voice	1.72
+Oggyar Battle-Seer	1.72
+Arcane Subtraction	1.72
+Enthusiastic Study	1.72
+Reckless Amplimancer	1.69
+Springmane Cervin	1.69
+Defend the Campus	1.67
+Novice Dissector	1.67
+Double Major	1.64
+Big Play	1.63
+Stonerise Spirit	1.61
+Twinscroll Shaman	1.61
+Whirlwind Denial	1.58
+Crushing Disappointment	1.56
+Serpentine Curve	1.56
+Make Your Mark	1.56
+Soothsayer Adept	1.5
+Study Break	1.5
+Test of Talents	1.5
+Beaming Defiance	1.5
+Eager First-Year	1.5
+Professor's Warning	1.5
+Campus Guide	1.5
+Codie, Vociferous Codex	1.5
+Defiant Strike	1.5
+Dark Ritual	1.5
+Teach by Example	1.44
+Thrilling Discovery	1.44
+Promising Duskmage	1.44
+Leyline Invocation	1.44
+Biblioplex Assistant	1.44
+Exponential Growth	1.42
+Culling Ritual	1.42
+Divine Gambit	1.42
+Inquisition of Kozilek	1.42
+Go Blank	1.39
+Essence Infusion	1.39
+Hall Monitor	1.33
+Rushed Rebirth	1.33
+Charge Through	1.31
+Spined Karok	1.31
+Archway Commons	1.31
+Culmination of Studies	1.29
+Show of Confidence	1.28
+Sudden Breakthrough	1.28
+Ageless Guardian	1.28
+Solve the Equation	1.28
+Curate	1.22
+Reject	1.17
+Gift of Estates	1.17
+Revitalize	1.17
+Strategic Planning	1.17
+Tendrils of Agony	1.17
+Adventurous Impulse	1.17
+Weather the Storm	1.17
+Academic Probation	1.14
+Symmetry Sage	1.11
+Channel	1.08
+Cogwork Archivist	1.06
+Excavated Wall	1.06
+Clever Lumimancer	1.06
+First Day of Class	1.06
+Resculpt	1
+Cram Session	1
+Negate	1
+Tangletrap	0.94
+Mercurial Transformation	0.83
+Tainted Pact	0.83
+Spell Satchel	0.81
+Duress	0.75
+Square Up	0.67
+Mascot Interception	0.67
+Mind's Desire	0.67
+Claim the Firstborn	0.67
+Mana Tithe	0.58
+Stone Rain	0.58
+Confront the Past	0.57
+Detention Vortex	0.56
+Fracture	0.5
+Krosan Grip	0.42
+Fervent Mastery	0.14
+Secret Rendezvous	0.11
+Dragon's Approach	0.11

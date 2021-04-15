@@ -1,0 +1,254 @@
+Sword of Truth and Justice	1
+Serra the Benevolent	2
+Deep Forest Hermit	3
+Yawgmoth, Thran Physician	4
+Seasoned Pyromancer	5
+Sword of Sinew and Steel	6
+Hexdrinker	7
+Winds of Abandon	8
+Endling	9
+Genesis	10
+Plague Engineer	11
+Ayula, Queen Among Bears	12
+Giver of Runes	13
+Firebolt	14
+Cloudshredder Sliver	15
+Mist-Syndicate Ninja	16
+Battle Screech	17
+Pashalik Mons	18
+Future Sight	19
+Wrenn and Six	20
+Mob	21
+Fallen Shinobi	22
+Graveshifter	23
+Prismatic Vista	24
+Fact or Fiction	25
+Bazaar Trademage	26
+Urza, Lord High Artificer	27
+Force of Virtue	28
+Crashing Footfalls	29
+Pyrophobia	30
+Ice-Fang Coatl	31
+Defile	32
+Spiteful Sliver	33
+Smiting Helix	34
+Twisted Reflection	35
+Urza's Rage	36
+Oneirophage	37
+Kess, Dissident Mage	38
+Sling-Gang Lieutenant	39
+Saddled Rimestag	40
+Kaya's Guile	41
+On Thin Ice	42
+Talisman of Creativity	43
+Man-o'-War - Foil	44
+Frostwalk Bastion	45
+Exclude	46
+Magmatic Sinkhole	47
+Talisman of Conviction	48
+Rotwidow Pack	49
+Talisman of Hierarchy	50
+Talisman of Resilience	51
+Unsettled Mariner	52
+Squirrel Nest	53
+Talisman of Curiosity	54
+Watcher for Tomorrow	55
+Morophon, the Boundless	56
+Thundering Djinn	57
+Irregular Cohort	58
+Waterlogged Grove	59
+Krosan Tusker	60
+Soulherder	61
+Fiery Islet	62
+Nurturing Peatland	63
+Silent Clearing	64
+Ranger-Captain of Eos	65
+Hogaak, Arisen Necropolis	66
+Sunbaked Canyon	67
+Feaster of Fools	68
+Munitions Expert	69
+Splicer's Skill	70
+Ravenous Giant	71
+Nantuko Cultivator	72
+Dead of Winter	73
+Ingenious Infiltrator	74
+Good-Fortune Unicorn	75
+Valiant Changeling	76
+Marit Lage's Slumber	77
+Wall of Blossoms	78
+Ore-Scale Guardian	79
+Astral Drift	80
+Lesser Masticore	81
+Forgotten Cave	82
+Dregscape Sliver	83
+Tranquil Thicket	84
+Settle Beyond Reality	85
+Barren Moor	86
+Alpine Guide	87
+Mother Bear	88
+Hollowhead Sliver	89
+Trumpeting Herd	90
+Lightning Skelemental	91
+Pondering Mage	92
+Windcaller Aven	93
+Crypt Rats	94
+Throatseeker	95
+Lonely Sandbar - Foil	96
+Wing Shards	97
+Birthing Boughs	98
+Undead Augur	99
+Secluded Steppe	100
+Rhox Veteran	101
+Igneous Elemental	102
+First Sliver's Chosen	103
+Lavabelly Sliver	104
+Tectonic Reformation	105
+Conifer Wurm	106
+Reprobation	107
+Enduring Sliver	108
+Winter's Rest	109
+Etchings of the Chosen	110
+Webweaver Changeling	111
+Cleaving Sliver	112
+Moonblade Shinobi	113
+Cave of Temptation	114
+Venomous Changeling	115
+Reap the Past	116
+Abominable Treefolk	117
+Force of Rage	118
+Rime Tender	119
+First-Sphere Gargantua	120
+Blizzard Strix	121
+Ayula's Influence	122
+Scrapyard Recombiner	123
+Zhalfirin Decoy	124
+Farmstead Gleaner	125
+Bladeback Sliver	126
+Scale Up	127
+Cordial Vampire	128
+Lancer Sliver	129
+Putrid Goblin	130
+Regrowth	131
+Quakefoot Cyclops	132
+Springbloom Druid	133
+Murasa Behemoth	134
+Goblin Matron	135
+Goblin War Party	136
+King of the Pride	137
+Force of Despair	138
+Carrion Feeder	139
+Vesperlark	140
+Sadistic Obsession	141
+Snow-Covered Island	142
+Mirrodin Besieged	143
+Fountain of Ichor	144
+Imposter of the Sixth Pride	145
+Rain of Revelation	146
+Answered Prayers	147
+Tempered Sliver	148
+Shelter	149
+Altar of Dementia	150
+Twin-Silk Spider	151
+Bellowing Elk	152
+Cabal Therapist	153
+Vengeful Devil	154
+Winding Way	155
+Orcish Hellraiser	156
+Savage Swipe	157
+Snow-Covered Forest	158
+Throes of Chaos	159
+Silumgar Scavenger	160
+Warteye Witch	161
+Phantom Ninja	162
+Excavating Anurid	163
+Gluttonous Slug	164
+Martyr's Soul	165
+Changeling Outcast	166
+Mox Tantalite	167
+Archmage's Charm	168
+Frostwalla	169
+Ruination Rioter	170
+Unearth	171
+Chillerpillar	172
+Azra Smokeshaper	173
+Eyekite	174
+Faerie Seer	175
+Scour All Possibilities	176
+Smoke Shroud	177
+Generous Gift	178
+Headless Specter	179
+Eladamri's Call	180
+Recruit the Worthy	181
+Ransack the Lab	182
+Treetop Ambusher	183
+Choking Tethers	184
+String of Disappearances	185
+Force of Negation	186
+Glacial Revalation	187
+Amorphous Axe	188
+Llanowar Tribe	189
+Return from Extinction	190
+Elvish Fury	191
+Viashino Sandsprinter	192
+Snow-Covered Mountain	193
+Scuttling Sliver	194
+Spinehorn Minotaur	195
+Icehide Golem	196
+Phantasmal Form	197
+Knight of Old Benalia	198
+Snow-Covered Swamp	199
+Snow-Covered Plains	200
+Reckless Charge	201
+Bogardan Dragonheart	202
+Lava Dart	203
+Treefolk Umbra	204
+Everdream	205
+Arcum's Astrolabe	206
+Nether Spirit	207
+Tribute Mage	208
+Cunning Evasion	209
+Ninja of the New Moon	210
+Universal Automaton	211
+Diabolic Edict	212
+Thornado	213
+Goblin Champion	214
+Umezawa's Charm	215
+Prohibit	216
+Wall of One Thousand Cuts	217
+Goblin Oriflamme	218
+Stirring Address	219
+Trustworthy Scout	220
+Echo of Eons	221
+Rank Officer	222
+Goatnap	223
+Fists of Flame	224
+The First Sliver	225
+Ephemerate	226
+Collector Ouphe	227
+Force of Vigor	228
+Pillage	229
+Iceberg Cancrix	230
+Face of Divinity	231
+Dismantling Blow	232
+Soul-Strike Technique	233
+Spell Snuff	234
+Volatile Claws	235
+Stream of Thought	236
+Goblin Engineer	237
+Segovian Angel	238
+Mind Rake	239
+Sisay, Weatherlight Captain	240
+Nimble Mongoose	241
+Geomancer's Gambit	242
+Aria of Flame	243
+Unbound Flourishing	244
+Nature's Chant	245
+Hall of Heliod's Generosity	246
+Spore Frog	247
+Gilded Light	248
+Rebuild	249
+Collected Conjuring	250
+Shatter Assumpions	251
+Shenanigans	252
+Planebound Accomplice	253
+Weather the Storm	254

@@ -2,9 +2,10 @@ from math import floor
 import string
 
 class Card():
-    def __init__(self, name, order):
+    def __init__(self, name, order, truncate=False):
         self.name = name
         self.order = order
+        self.truncate = truncate
 
     def ratings_str(self):
         s_order = [str(o) for o in self.order]
@@ -36,5 +37,7 @@ class Card():
             c_ones = int(floor(self.order[1]))
             c_decimals = int(floor(self.order[1] * 10)) - c_ones * 10
             conditional = '\t(%d.%d)' % (c_ones, c_decimals)
-        
+
+        if self.truncate:
+            return "# %d\t%s%s" % (ones, self.get_name(), conditional)
         return "%d.%d\t%s%s" % (ones, decimals, self.get_name(), conditional)

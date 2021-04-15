@@ -17,8 +17,11 @@ filename_dict = {'DOM':'data/dom.txt',
                  'DTK':"data/dtk.txt",
 		 'WWK':"data/wwk.txt",
 		 'ZEN':"data/zenzenzen.txt",
-                 'RNA':"data/rna.txt"}
+                 'RNA':"data/rna.txt",
+                 'MH1':'data/mh1.txt',
+                 'STX':'data/strixhaven.txt'}
 ascending_sets = ['ZEN', 'WWK']
+karsten_sets = ['MH1']
 lsv_set_index = 1
 tcg_set_index = 3
 exit_command = 3 #ctrl-c
@@ -32,19 +35,25 @@ window_height = 23
 
 def get_filename():
     for key in filename_dict:
-        print "[%s]" % key
-    choice = raw_input("Draft type: ").upper()
+        print("[%s]" % key)
+    choice = input("Draft type: ").upper()
     while choice not in filename_dict:
-        choice = raw_input("Draft type: ").upper()
+        choice = input("Draft type: ").upper()
     return filename_dict[choice]
 
 def is_asc_set(filename):
     for key in filename_dict:
         if filename_dict[key] == filename:
-	    return key in ascending_sets
+            return key in ascending_sets
     return False
 
-def load_pick_order(filename, is_asc=False):
+def is_karsten_set(filename):
+    for key in filename_dict:
+        if filename_dict[key] == filename:
+            return key in karsten_sets
+    return False
+
+def load_pick_order(filename, is_asc=False, is_karsten=False):
     file_data = open(filename, 'r')
     file_lines = [line.strip().lower() for line in file_data.readlines()]
     file_data.close()
@@ -104,36 +113,37 @@ def prune_names(names, string):
         new_names.append(name)
     return new_names
 
-def update(strings, names, order, maxlen, asc_order=False):
+def update(strings, names, order, maxlen, asc_order=False, is_karsten=False):
     os.system('cls')
     for string in strings:
-        print "> %s" % string
-    print ""
+        print("> %s" % string)
+    print("")
     largeset = set()
     for nameset in names:
         if len(nameset) == maxlen:
             continue
         for name in nameset:
-            largeset.add(Card(name, order[name]))
+            largeset.add(Card(name, order[name], is_karsten))
     cardset = sorted(largeset)
     cardset = cardset if asc_order else cardset[::-1]
     for name in cardset:
-        print name
+        print(name)
 
 def main():
-    print "Welcome to the Pick Order Lookup"
-    print "Press Ctrl-C at any time to exit."
+    print("Welcome to the Pick Order Lookup")
+    print("Press Ctrl-C at any time to exit.")
     filename = get_filename()
     is_asc = is_asc_set(filename)
-    names, order = load_pick_order(filename, is_asc)
+    is_karsten = is_karsten_set(filename)
+    names, order = load_pick_order(filename, is_asc, is_karsten)
     current_lookup = [""]
     current_names = [[name for name in names]]
     #os.system('setterm -cursor off')
 
     while True:
-        update(current_lookup, current_names, order, len(names), is_asc)
+        update(current_lookup, current_names, order, len(names), is_asc or is_karsten, is_karsten)
         
-        new_key = getch()
+        new_key = getch().decode('utf-8')
 
         if ord(new_key) == exit_command:
             os.system('cls')
@@ -153,7 +163,10 @@ def main():
             current_lookup.append("")
             current_names.append([name for name in names])
         else:
-            current_lookup[-1] += new_key
+            #print(current_lookup)
+            #print(new_key)
+            #input()
+            current_lookup[-1] += new_key#.decode('utf-8')
             current_names[-1] = prune_names(names, current_lookup[-1].lower())
         
 
