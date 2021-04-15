@@ -9,9 +9,13 @@ Backspace - Undo previous keystroke, or on empty line, clears the line
 Ctrl + D - Clear line  
 Ctrl + C - Exit  
 
-Thanks to Frank Karsten for the initial seed data for Magic: Origins drafts. You can find his analysis [here.](http://www.channelfireball.com/articles/a-pick-order-list-for-magic-origins/)
+Thanks to Frank Karsten for the initial seed data for Magic: Origins drafts, and Modern Horizon drafts. You can find his analysis [here.](http://www.channelfireball.com/articles/a-pick-order-list-for-magic-origins/)
+
 Thanks to LSV for the updated seed data for Magic: Origins drafts and the DTK set. You can find his articles [here.](http://www.channelfireball.com/author/luis-scott-vargas/)
+
 Thanks to TCGPlayer for the pick orders for 3xZEN. You can find the original data [here.](http://magic.tcgplayer.com/strategy/draft-091006.asp) Do note that this data is missing lands and artifacts in the analysis.
+
+Thanks to reddit user _Concepcion for their compiled Strixhaven draft data. [Original reddit post here](https://redd.it/mr6jhh), and [original data compilation here.](https://docs.google.com/spreadsheets/d/1SBLdCAugGsRrAcrZiGBhL5_mQoPgYopBuUj-4GOPfQk/)
 
 # Example
 Here's a sample P1P1 of a pack of Magic: Origins, provided by ChannelFireball [here.](http://www.channelfireball.com/articles/whats-the-pick-magic-origins-pack-1-pick-1-with-huey-2/)
