@@ -1,0 +1,261 @@
+Sanctuary Warden	4.93
+Vivien on the Hunt	4.90
+Elspeth Resplendent	4.89
+Ob Nixilis, the Adversary	4.84
+All-Seeing Arbiter	4.77
+Titan of Industry	4.65
+Falco Spara, Pactweaver	4.50
+Evelyn, the Covetous	4.45
+Workshop Warchief	4.45
+Jetmir, Nexus of Revels	4.43
+Reservoir Kraken	4.42
+Brokers Ascendancy	4.40
+Ziatora, the Incinerator	4.36
+Rabble Rousing	4.30
+Hostile Takeover	4.29
+Urabrask, Heretic Praetor	4.28
+Shakedown Heavy	4.22
+Soul of Emancipation	4.22
+Body Launderer	4.18
+Jinnie Fay, Jetmir's Second	4.18
+Professional Face-Breaker	4.15
+Tenacious Underdog	4.09
+Ziatora's Envoy	4.06
+Gala Greeters	4.06
+Jaxis, the Troublemaker	4.02
+Rigo, Streetwise Mentor	4.02
+Raffine, Scheming Seer	4.02
+Fight Rigging	3.99
+Undercover Operative	3.86
+Inspiring Overseer	3.72
+Mysterious Limousine	3.70
+Toluz, Clever Conductor	3.69
+Ledger Shredder	3.61
+Sanguine Spy	3.60
+Queza, Augur of Agonies	3.56
+Jewel Thief	3.51
+Night Clubber	3.51
+Giada, Font of Hope	3.50
+Lagrella, the Magpie	3.49
+Angel of Suffering	3.46
+Exotic Pets	3.44
+Murder	3.42
+Extraction Specialist	3.37
+Fleetfoot Dancer	3.34
+Mage's Attendant	3.33
+Rocco, Cabaretti Caterer	3.32
+Depopulate	3.27
+Strangle	3.26
+Obscura Interceptor	3.25
+Aven Heartstabber	3.20
+Citizen's Crowbar	3.18
+Corpse Appraiser	3.17
+Metropolis Angel	3.17
+Sleep with the Fishes	3.16
+Maestros Diabolist	3.13
+Bouncer's Beatdown	3.10
+Whack	3.09
+Psychic Pickpocket	3.07
+Cleanup Crew	3.07
+Halo Fountain	3.04
+Jetmir's Garden	3.04
+Call In a Professional	3.02
+Ziatora's Proving Ground	3.02
+Spara's Headquarters	3.02
+Xander's Lounge	3.00
+Black Market Tycoon	3.00
+Raffine's Tower	2.99
+Darling of the Masses	2.98
+Body Dropper	2.97
+Faerie Vandal	2.94
+Pugnacious Pugilist	2.94
+Cormela, Glamour Thief	2.93
+Riveteers Charm	2.91
+Disciplined Duelist	2.89
+Sizzling Soloist	2.89
+Lord Xander, the Collector	2.88
+Syndicate Infiltrator	2.88
+Elegant Entourage	2.85
+Void Rend	2.85
+Illuminator Virtuoso	2.85
+Brokers Charm	2.85
+Brazen Upstart	2.84
+Riveteers Requisitioner	2.84
+Corpse Explosion	2.83
+Unleash the Inferno	2.80
+Celestial Regulator	2.79
+Grisly Sigil	2.78
+Cabaretti Charm	2.76
+Out of the Way	2.75
+Courier's Briefcase	2.75
+Mr. Orfeo, the Boulder	2.73
+Exhibition Magician	2.72
+Raffine's Silencer	2.69
+Dusk Mangler	2.66
+Botanical Plaza	2.66
+Tramway Station	2.66
+Getaway Car	2.65
+Racers' Ring	2.64
+Wingshield Agent	2.63
+Mayhem Patrol	2.63
+Skybridge Towers	2.62
+Waterfront District	2.60
+Corrupt Court Official	2.60
+Maestros Charm	2.59
+Pyre-Sledge Arsonist	2.56
+Knockout Blow	2.55
+Civil Servant	2.55
+Cabaretti Courtyard	2.53
+Rogues' Gallery	2.52
+Echo Inspector	2.51
+Voice of the Vermin	2.50
+Obscura Storefront	2.49
+Torch Breath	2.48
+Stimulus Package	2.48
+Riveteers Overlook	2.48
+Maestros Theater	2.48
+Jetmir's Fixer	2.47
+Topiary Stomper	2.47
+Riveteers Decoy	2.47
+Security Rhox	2.46
+Rooftop Nuisance	2.46
+Cabaretti Ascendancy	2.46
+Deal Gone Bad	2.46
+Girder Goons	2.45
+Brokers Hideout	2.45
+Expendable Lackey	2.45
+Park Heights Pegasus	2.43
+Rumor Gatherer	2.42
+Sticky Fingers	2.42
+Swooping Protector	2.39
+Nimble Larcenist	2.38
+Unlucky Witness	2.36
+Raffine's Informant	2.36
+Forge Boss	2.36
+Incandescent Aria	2.34
+Ognis, the Dragon's Lash	2.33
+Venom Connoisseur	2.30
+Luxurious Libation	2.29
+Spara's Adjudicators	2.29
+Snooping Newsie	2.28
+Rakish Revelers	2.27
+Warm Welcome	2.27
+A Little Chat	2.27
+Freelance Muscle	2.25
+Scheming Fence	2.24
+Glamorous Outlaw	2.19
+Ballroom Brawlers	2.19
+Plasma Jockey	2.17
+Obscura Initiate	2.16
+Obscura Charm	2.15
+Tainted Indulgence	2.15
+Unlicensed Hearse	2.14
+Maestros Initiate	2.14
+Brokers Veteran	2.10
+Hold for Ransom	2.09
+Gathering Throng	2.08
+Arcane Bombardment	2.07
+Witty Roastmaster	2.03
+Prizefight	2.02
+Run Out of Town	2.01
+Involuntary Employment	1.99
+Join the Maestros	1.98
+Speakeasy Server	1.96
+Big Score	1.96
+Glittermonger	1.96
+Shattered Seraph	1.94
+Endless Detour	1.94
+Scuttling Butler	1.93
+Majestic Metamorphosis	1.92
+Light 'Em Up	1.91
+Caldaia Strongarm	1.90
+Backup Agent	1.88
+Masked Bandits	1.85
+Hypnotic Grifter	1.85
+Wiretapping	1.85
+Angelic Observer	1.79
+Dig Up the Body	1.78
+Quick-Draw Dagger	1.78
+Ceremonial Groundbreaker	1.75
+Goldhound	1.73
+Riveteers Ascendancy	1.72
+Even the Score	1.71
+Fake Your Own Death	1.71
+Ominous Parcel	1.69
+Errant, Street Artist	1.68
+Kill Shot	1.67
+Rhox Pummeler	1.66
+Fatal Grudge	1.65
+Sky Crier	1.62
+Midnight Assassin	1.61
+Crooked Custodian	1.61
+Wrecking Crew	1.58
+Attended Socialite	1.56
+Graveyard Shift	1.54
+Riveteers Initiate	1.53
+Hoard Hauler	1.52
+Crew Captain	1.52
+Boon of Safety	1.40
+Ready to Rumble	1.39
+High-Rise Sawjack	1.38
+Buy Your Silence	1.37
+Paragon of Modernity	1.35
+Social Climber	1.33
+Take to the Streets	1.32
+Civic Gardener	1.31
+Devilish Valet	1.31
+Backstreet Bruiser	1.30
+Dapper Shieldmate	1.28
+Antagonize	1.28
+For the Family	1.24
+Celebrity Fencer	1.22
+Suspicious Bookcase	1.22
+Revel Ruiner	1.22
+Halo Scarab	1.20
+Vampire Scrivener	1.19
+Patch Up	1.16
+Cabaretti Initiate	1.16
+Raffine's Guidance	1.13
+Demon's Due	1.11
+Capenna Express	1.08
+Sewer Crocodile	1.08
+Maestros Ascendancy	1.08
+Cutthroat Contender	1.06
+Incriminate	1.05
+Psionic Snoop	1.05
+Cut of the Profits	1.04
+Brokers Initiate	1.03
+Gilded Pinions	1.01
+Most Wanted	0.98
+Rob the Archives	0.96
+Case the Joint	0.94
+Revelation of Power	0.94
+Refuse to Yield	0.93
+Make Disappear	0.92
+Brass Knuckles	0.92
+Glittering Stockpile	0.89
+Security Bypass	0.89
+Obscura Ascendancy	0.85
+Bootleggers' Stash	0.84
+Chrome Cat	0.83
+Slip Out the Back	0.80
+Shadow of Mortality	0.78
+Cut Your Losses	0.77
+Witness Protection	0.73
+Tavern Swindler	0.73
+Cement Shoes	0.72
+Arc Spitter	0.67
+Widespread Thieving	0.65
+Daring Escape	0.64
+Extract the Truth	0.63
+Disdainful Stroke	0.63
+Structural Assault	0.59
+Jackhammer	0.51
+Public Enemy	0.45
+Evolving Door	0.37
+Broken Wings	0.37
+Luxior, Giada's Gift	0.32
+Illicit Shipment	0.25
+Cemetery Tampering	0.25
+An Offer You Can't Refuse	0.11
+Meeting of the Five	0.00

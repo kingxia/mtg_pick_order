@@ -19,7 +19,8 @@ filename_dict = {'DOM':'data/dom.txt',
 		 'ZEN':"data/zenzenzen.txt",
                  'RNA':"data/rna.txt",
                  'MH1':'data/mh1.txt',
-                 'STX':'data/strixhaven.txt'}
+                 'STX':'data/strixhaven.txt',
+                 'SNC':'data/snc.txt'}
 ascending_sets = ['ZEN', 'WWK']
 karsten_sets = ['MH1']
 lsv_set_index = 1
